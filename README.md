@@ -15,7 +15,7 @@ The selection process does not account for age-related criteria since CDCR denie
 
 If you make use of our dataset(s), please cite our work as follows: 
 
-"Redo.io. cdcr-prison-pop (Version 1.0.0) [Dataset]. https://github.com/redoio/prison_pop"
+"Redo.io. cdcr-scenarios (Version 1.0.0) [Dataset]. https://github.com/redoio/scenarios"
 
 # License 
 
