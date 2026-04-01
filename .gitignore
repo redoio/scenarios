@@ -1,2 +1,2 @@
 # Ignoring cohort data that is raw or unhashed (uses original CDCR IDs)
-/data/output/org
+/nnn_cohort/12_2023/org
