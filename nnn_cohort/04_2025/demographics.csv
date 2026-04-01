@@ -1,0 +1,604 @@
+cdcno,ethnicity,controlling offense,description,offense begin date,offense end date,controlling case number,controlling case sentencing county,sentence type,aggregate sentence in months,offense category,eprd mepd month and year,current location,aggregate sentence in years,time served in years,expected release date
+1ebf389a,White,VC23152(a),DUI W/3 or More Priors Within 7 years,01/29/2003,01/29/2003,SCD175729,San Diego,Third Striker,348.0,Other Crimes,MAR2025,Central California Women's Facility,29.0,23.2,2032-01-29
+3dc1ca8f,Black,PC273a(a),Abuse/Endanger Health of Child,07/21/2005,07/21/2005,2005024630,Ventura,Second Striker,288.0,Crimes Against Persons,DEC2025,Central California Women's Facility,24.0,20.7,2029-07-21
+920e3f47,Hispanic,PC245(b),Assault with Semiautomatic Firearm,12/26/2014,12/26/2014,,Los Angeles,Second Striker,252.0,Crimes Against Persons,JAN2029,Central California Women's Facility,21.0,11.3,2035-12-26
+96161302,Black,PC459 2nd,Burglary 2nd,10/29/2007,10/29/2007,RIF139865,Riverside,Third Striker,300.0,Property Crimes,JUN2025,Central California Women's Facility,25.0,18.4,2032-10-29
+a9a7ca81,White,PC191.5(d),Manslaughter by Motor Vehicle/DUI with Priors,01/23/2007,01/23/2007,08NF0504,Orange,Life with Parole,240.0,Crimes Against Persons,APR2022,California Institution for Women,20.0,19.2,2027-01-23
+869c3d27,White,PC4501.5,Battery on Non Prisoner,03/22/2011,03/22/2011,,Madera,Second Striker,240.0,Crimes Against Persons,MAY2026,Central California Women's Facility,20.0,15.0,2031-03-22
+e1d2eb68,Mexican,PC245(a)(3),Assault with a Machine Gun,05/25/2008,05/25/2008,LA059110,Los Angeles,Second Striker,320.0,Crimes Against Persons,FEB2029,"California State Prison, Los Angeles County",26.7,17.9,2035-01-25
+50dfed02,Hispanic,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,05/20/2006,05/20/2006,1183843,Santa Barbara,Third Striker,336.0,Crimes Against Persons,FEB2026,Folsom State Prison,28.0,19.9,2034-05-20
+17e94f91,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+33416adc,Hispanic,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,04/04/2011,04/04/2011,F11902219,Fresno,Third Striker,300.0,Crimes Against Persons,NOV2026,California Substance Abuse Treatment Facility,25.0,15.0,2036-04-04
+f0c7dc2b,Black,HS11378.5,Possession PCP for Sale,02/26/2015,03/25/2015,FSB1501224,San Bernardino,Third Striker,420.0,Drug Crimes,JAN2034,Folsom State Prison,35.0,11.0,2050-03-25
+179f43ad,White,HS11370.1(a),Possession of CS While Armed w/Loaded Firearm,08/22/2007,08/22/2007,62073433,Placer,Third Striker,1572.0,Drug Crimes,DEC2078,Salinas Valley State Prison,131.0,18.6,2138-08-22
+1a749011,Other,VC23153(a),DUI/Bodily Injury/Death,12/06/2008,12/06/2008,SWF027168,Riverside,Third Striker,432.0,Other Crimes,DEC2034,California Health Care Facility - Stockton,36.0,17.3,2044-12-06
+45d01b06,Hispanic,PC12280(a)(1),Manufacture/Transport/Sale/Lend Assault Weapon,06/14/2007,06/14/2007,LA056029,Los Angeles,Third Striker,396.0,Other Crimes,MAR2029,California Substance Abuse Treatment Facility,33.0,18.8,2040-06-14
+d105bcc0,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,10/23/2006,10/23/2006,RIF132928,Riverside,Third Striker,492.0,Crimes Against Persons,AUG2031,Correctional Training Facility,41.0,19.4,2047-10-23
+5715adbe,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,12/25/2008,12/25/2008,08F10399,Sacramento,Third Striker,300.0,Crimes Against Persons,JUN2026,"California State Prison, Solano",25.0,17.3,2033-12-25
+83d2b9e0,Hispanic,PC12021(a)(1),POSS F/A EX-FEL,11/05/2009,11/05/2009,F09906451,Fresno,Third Striker,300.0,Other Crimes,JUL2027,Salinas Valley State Prison,25.0,16.4,2034-11-05
+5c4b0784,White,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,06/07/2007,06/07/2007,RIF141446,Riverside,Third Striker,300.0,Crimes Against Persons,NOV2025,RJ Donovan Correctional Facility,25.0,18.8,2032-06-07
+253ffe28,Hispanic,PC368(b)(1),Injury to Elder Causing Death/GBI,05/22/2009,05/22/2009,F09903084,Fresno,Second Striker,300.0,Crimes Against Persons,APR2030,Salinas Valley State Prison,25.0,16.9,2034-05-22
+1deb8f12,Black,PC12021(a)(1),POSS F/A EX-FEL,07/29/2008,07/29/2008,BA344243,Los Angeles,Third Striker,924.0,Other Crimes,FEB2052,California Men's Colony,77.0,17.7,2085-07-29
+54fc4642,Black,,,,,,,Other,,,,Wasco State Prison,,,
+09b47eec,Mexican,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,02/14/2012,02/14/2012,KA096967,Los Angeles,Third Striker,360.0,Crimes Against Persons,FEB2029,Avenal State Prison,30.0,14.1,2042-02-14
+fd113856,Black,PC12021(a)(1),POSS F/A EX-FEL,08/21/2006,08/21/2006,06F07694,Sacramento,Third Striker,300.0,Other Crimes,JUL2026,Correctional Training Facility,25.0,19.6,2031-08-21
+9ad268a9,White,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,04/22/2013,04/22/2013,CM038595,Butte,Third Striker,396.0,Crimes Against Persons,MAY2037,Mule Creek State Prison,33.0,12.9,2046-04-22
+063fee20,American Indian,PC245(b),Assault with Semiautomatic Firearm,01/13/2015,01/13/2015,CR1500242,Humboldt,Second Striker,292.0,Crimes Against Persons,NOV2025,Sierra Conservation Center - Ishi Camp,24.3,11.2,2039-05-13
+783ff95d,Hispanic,PC273a(a),Abuse/Endanger Health of Child,03/13/2007,03/13/2007,FVI700503,San Bernardino,Second Striker,276.0,Crimes Against Persons,AUG2029,Kern Valley State Prison,23.0,19.1,2030-03-13
+e55582b5,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+f8e506da,White,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,08/12/2013,08/12/2013,2013025191,Ventura,Second Striker,276.0,Crimes Against Persons,JAN2030,California Substance Abuse Treatment Facility,23.0,12.6,2036-08-12
+f2eba8a3,Hispanic,HS11370.1(a),Possession of CS While Armed w/Loaded Firearm,07/03/2007,07/03/2007,07WF1609,Orange,Third Striker,300.0,Drug Crimes,MAR2025,Kern Valley State Prison,25.0,18.8,2032-07-03
+fe496bab,Black,PC273a(a),Abuse/Endanger Health of Child,11/06/2008,11/06/2008,FMB900221A,San Bernardino,Second Striker,348.0,Crimes Against Persons,NOV2030,Kern Valley State Prison,29.0,17.4,2037-11-06
+c15fb353,White,HS11379(a),Transport/Import Controlled Substance,04/20/2010,04/20/2010,,Santa Clara,Third Striker,300.0,Drug Crimes,DEC2026,Correctional Training Facility,25.0,16.0,2035-04-20
+c6b06d9b,Black,PC273a(a),Abuse/Endanger Health of Child,03/28/2008,03/28/2008,MA041722,Los Angeles,Second Striker,316.0,Crimes Against Persons,JAN2027,"California State Prison, Los Angeles County",26.3,18.0,2034-07-28
+7d88bd99,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,09/22/2010,09/22/2010,SS110009,Monterey,Second Striker,304.0,Crimes Against Persons,SEP2030,Pelican Bay State Prison,25.3,15.5,2036-01-22
+d9420864,Black,PC12021(a)(1),POSS F/A EX-FEL,08/12/2010,08/12/2010,MA050053,Los Angeles,Third Striker,372.0,Other Crimes,JUN2028,Salinas Valley State Prison,31.0,15.6,2041-08-12
+8266f577,Hispanic,PC653f(b),Solicit Another to Commit/Join in Commission of Murder,07/03/2008,07/03/2008,FSB804265,San Bernardino,Second Striker,276.0,Crimes Against Persons,FEB2027,"California State Prison, Los Angeles County",23.0,17.8,2031-07-03
+0e5ab095,Hispanic,PC245(b),Assault with Semiautomatic Firearm,10/25/2010,10/25/2010,FVA1001689,San Bernardino,Second Striker,360.0,Crimes Against Persons,SEP2031,California Substance Abuse Treatment Facility,30.0,15.4,2040-10-25
+d1a05d43,Black,PC459 2nd,Burglary 2nd,05/18/1995,05/18/1995,SCD112999,San Diego,Third Striker,324.0,Property Crimes,AUG2019,Salinas Valley State Prison,27.0,30.9,2022-05-18
+b088777e,White,HS11378,Possession Controlled Substance for Sale,09/29/1998,09/29/1998,197772,Stanislaus,Third Striker,348.0,Drug Crimes,NOV2022,"California State Prison, Corcoran",29.0,27.5,2027-09-29
+149d63e4,Mexican,PC12020(a),MFG/SAL/POSS WPN,12/13/1995,12/13/1995,,Santa Clara,Third Striker,300.0,Other Crimes,SEP2020,Mule Creek State Prison,25.0,30.3,2020-12-13
+b2e31b4d,White,PC470b,Display Forged Drivers License or ID,10/12/1999,10/12/1999,99NF2770,Orange,Third Striker,300.0,Property Crimes,SEP2021,California Substance Abuse Treatment Facility,25.0,26.5,2024-10-12
+3fd08d98,Mexican,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,08/09/2003,08/09/2003,,San Bernardino,Third Striker,312.0,Crimes Against Persons,MAR2024,RJ Donovan Correctional Facility,26.0,22.7,2029-08-09
+2732801c,White,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,05/04/1997,05/04/1997,138089,Stanislaus,Third Striker,300.0,Crimes Against Persons,APR2021,RJ Donovan Correctional Facility,25.0,28.9,2022-05-04
+f2654ad0,Mexican,HS11370.1(a),Possession of CS While Armed w/Loaded Firearm,09/16/1994,09/16/1994,FSB06424,San Bernardino,Third Striker,300.0,Drug Crimes,JUN2019,"California State Prison, Solano",25.0,31.6,2019-09-16
+a23944d2,Black,PC666,Petty Theft With Prior,07/12/1997,07/12/1997,SM970690,Monterey,Third Striker,900.0,Property Crimes,SEP2047,Calipatria State Prison,75.0,28.7,2072-07-12
+c1ee5c67,White,PC12020(a),MFG/SAL/POSS WPN,05/28/1996,05/28/1996,CR27697,Napa,Third Striker,324.0,Other Crimes,NOV2020,RJ Donovan Correctional Facility,27.0,29.9,2023-05-28
+5bb95ecb,White,PC12021(a)(1),POSS F/A EX-FEL,05/19/1994,05/19/1994,,Orange,Third Striker,372.0,Other Crimes,JAN2019,RJ Donovan Correctional Facility,31.0,31.9,2025-05-19
+0c61bee1,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,01/08/1999,01/08/1999,LA032305,Los Angeles,Third Striker,600.0,Crimes Against Persons,APR2033,California Institution for Men,50.0,27.2,2049-01-08
+ba7de439,Black,PC4573.6,Possession CS in Jail/Prison,06/27/1995,06/27/1995,BA119207,Los Angeles,Third Striker,336.0,Drug Crimes,NOV2019,RJ Donovan Correctional Facility,28.0,30.8,2023-06-27
+7d2a260e,Black,PC496(a),Receiving Stolen Property,01/08/1997,01/08/1997,,Fresno,Third Striker,300.0,Property Crimes,FEB2021,San Quentin Rehabilitation Center,25.0,29.2,2022-01-08
+51e92f19,White,PC12021.1(a),POSS F/A BY PERS CONV SPEC OFF,09/02/1994,09/02/1994,SC35156,San Mateo,Third Striker,312.0,Other Crimes,MAY2019,Folsom State Prison,26.0,31.6,2020-09-02
+efdc150b,White,HS11353,Induce Minor to Commit Violation of Controlled Substance Act,11/01/2000,11/01/2000,RIF094114,Riverside,Third Striker,300.0,Drug Crimes,APR2022,Valley State Prison,25.0,25.4,2025-11-01
+f2bee969,Mexican,HS11351,Possess Controlled Substance for Sale,10/02/2005,10/02/2005,05ZF0119,Orange,Third Striker,420.0,Drug Crimes,AUG2029,California Substance Abuse Treatment Facility,35.0,20.5,2040-10-02
+56149aac,Black,HS11352(a),Transport/Sell Controlled Substance,05/20/1994,05/20/1994,,Los Angeles,Third Striker,600.0,Drug Crimes,AUG2031,RJ Donovan Correctional Facility,50.0,31.9,2044-05-20
+80ad4cc0,White,PC76,Threaten Life/Serious Bodily Injury of Public/Gov Official,02/16/1996,02/16/1996,RIF71131,Riverside,Third Striker,300.0,Other Crimes,JAN2020,California Substance Abuse Treatment Facility,25.0,30.1,2021-02-16
+c7157375,Black,HS11350(a),Possess Controlled Substance,09/28/1999,09/28/1999,TA101937,Los Angeles,Third Striker,300.0,Drug Crimes,SEP2021,RJ Donovan Correctional Facility,25.0,26.5,2024-09-28
+4bd50a8d,Black,PC666,Petty Theft With Prior,10/04/1995,10/04/1995,GA025814,Los Angeles,Third Striker,300.0,Property Crimes,FEB2020,"California State Prison, Solano",25.0,30.5,2020-10-04
+bfd151ee,Hispanic,PC12021.1(a),POSS F/A BY PERS CONV SPEC OFF,10/16/1997,10/16/1997,SS972634,Monterey,Third Striker,300.0,Other Crimes,JAN2021,"California State Prison, Solano",25.0,28.5,2022-10-16
+702310f5,Black,HS11351,Possess Controlled Substance for Sale,07/31/1998,07/31/1998,GA03680102,Los Angeles,Third Striker,316.0,Drug Crimes,FEB2022,"California State Prison, Solano",26.3,27.7,2024-11-30
+3dcafc9f,Mexican,PC459 2nd,Burglary 2nd,11/09/1996,11/09/1996,BA141091,Los Angeles,Third Striker,912.0,Property Crimes,SEP2047,Mule Creek State Prison,76.0,29.4,2072-11-09
+c6fe2eb7,White,HS11378,Possession Controlled Substance for Sale,06/21/1995,06/21/1995,SC37136,San Mateo,Third Striker,408.0,Drug Crimes,JAN2022,Mule Creek State Prison,34.0,30.8,2029-06-21
+f82b86e0,Black,PC12021(a)(1),POSS F/A EX-FEL,07/04/1997,07/04/1997,RIF75582,Riverside,Third Striker,300.0,Other Crimes,MAY2020,Correctional Training Facility,25.0,28.8,2022-07-04
+ae3212e7,American Indian,PC12021(a)(1),POSS F/A EX-FEL,08/01/2004,08/01/2004,VCF133303,Tulare,Third Striker,624.0,Other Crimes,DEC2037,Correctional Training Facility,52.0,21.7,2056-08-01
+714ab8a0,Mexican,PC12020(a),MFG/SAL/POSS WPN,08/14/2005,08/14/2005,,Fresno,Third Striker,312.0,Other Crimes,DEC2024,California Substance Abuse Treatment Facility,26.0,20.6,2031-08-14
+092b330b,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,12/14/2004,12/14/2004,,San Mateo,Third Striker,480.0,Crimes Against Persons,FEB2036,"California State Prison, Corcoran",40.0,21.3,2044-12-14
+77b65ef9,Mexican,PC666,Petty Theft With Prior,04/13/1998,04/13/1998,GA035695,Los Angeles,Third Striker,300.0,Property Crimes,SEP2021,California Institution for Men,25.0,28.0,2023-04-13
+df90ddc0,Mexican,HS11351.5,Possess/Purchase Cocaine for Sale,09/20/1999,09/20/1999,PA034266,Los Angeles,Third Striker,324.0,Drug Crimes,MAY2024,California Health Care Facility - Stockton,27.0,26.5,2026-09-20
+ab774ed1,American Indian,PC236,False Imprisonment,03/02/1997,03/02/1997,,Sacramento,Third Striker,600.0,Other Crimes,DEC2032,Mule Creek State Prison,50.0,29.1,2047-03-02
+2c35692c,Black,PC459 2nd,Burglary 2nd,11/24/1995,11/24/1995,,Los Angeles,Third Striker,300.0,Property Crimes,JAN2020,San Quentin Rehabilitation Center,25.0,30.4,2020-11-24
+6e97e662,Black,PC12021(a)(1),POSS F/A EX-FEL,07/15/1994,07/15/1994,BA098621,Los Angeles,Third Striker,324.0,Other Crimes,APR2019,Calipatria State Prison,27.0,31.7,2021-07-15
+846b808d,Black,PC12021(a)(1),POSS F/A EX-FEL,08/26/1994,08/26/1994,SCD106174,San Diego,Third Striker,300.0,Other Crimes,APR2019,California Health Care Facility - Stockton,25.0,31.6,2019-08-26
+3bdb0846,Mexican,PC273d(a),Corporal Punishment or Injury to Child,09/10/1994,09/10/1994,,Santa Clara,Third Striker,420.0,Crimes Against Persons,MAR2023,California Medical Facility,35.0,31.6,2029-09-10
+62772ab9,White,VC10851(a),Vehicle Theft,09/30/1999,09/30/1999,FSB024690,San Bernardino,Third Striker,300.0,Property Crimes,JUN2022,RJ Donovan Correctional Facility,25.0,26.5,2024-09-30
+a2b97b91,Black,HS11352(a),Transport/Sell Controlled Substance,08/06/1997,08/06/1997,BA156589,Los Angeles,Third Striker,300.0,Drug Crimes,FEB2021,California Medical Facility,25.0,28.7,2022-08-06
+ae49b5d9,Black,VC23153(b),DUI Over Legal BAC/Bodily Injury,10/19/2014,10/19/2014,YA091440,Los Angeles,Third Striker,480.0,Other Crimes,APR2043,"California State Prison, Solano",40.0,11.5,2054-10-19
+ffc0fb53,Black,HS11350(a),Possess Controlled Substance,11/14/1997,11/14/1997,,San Diego,Third Striker,300.0,Drug Crimes,DEC2020,California Health Care Facility - Stockton,25.0,28.4,2022-11-14
+75c558ee,Black,PC243(c)(2),Battery on a Peace Officer,01/06/2000,01/06/2000,,Los Angeles,Third Striker,324.0,Crimes Against Persons,MAR2023,California Institution for Men,27.0,26.2,2027-01-06
+098dc55f,Mexican,HS11351,Possess Controlled Substance for Sale,04/11/2002,04/11/2002,RIF102916,Riverside,Third Striker,540.0,Drug Crimes,OCT2032,Pelican Bay State Prison,45.0,24.0,2047-04-11
+00c10cdf,White,PC115(a),File False/Forged Instrument,08/26/2013,08/26/2013,BA435472,Los Angeles,Second Striker,492.0,Property Crimes,OCT2035,"California State Prison, Solano",41.0,12.6,2054-08-26
+3ee1e2cc,Black,PC192(b),Involuntary Manslaughter,05/28/1999,05/28/1999,VC142750,Solano,Third Striker,312.0,Crimes Against Persons,SEP2022,California Men's Colony,26.0,26.9,2025-05-28
+dab5e7a7,White,HS11377(a),Possession of Controlled Substance,06/29/1994,06/29/1994,,Los Angeles,Third Striker,300.0,Drug Crimes,FEB2019,Valley State Prison,25.0,31.8,2019-06-29
+64982fd6,Black,HS11377(a),Possession of Controlled Substance,06/03/1997,06/03/1997,HEF970426,Riverside,Third Striker,300.0,Drug Crimes,OCT2020,California Substance Abuse Treatment Facility,25.0,28.8,2022-06-03
+ccd95b0f,Black,PC12021(a)(1),POSS F/A EX-FEL,09/20/1997,09/20/1997,SM105224,Santa Barbara,Third Striker,336.0,Other Crimes,APR2022,Folsom State Prison,28.0,28.5,2025-09-20
+9d6c4b60,Mexican,PC12021(a)(1),POSS F/A EX-FEL,04/14/2002,04/14/2002,CRF02241,Yuba,Third Striker,300.0,Other Crimes,JAN2023,California Health Care Facility - Stockton,25.0,24.0,2027-04-14
+407b88f1,Mexican,HS11378,Possession Controlled Substance for Sale,04/02/2000,04/02/2000,FRE03988,San Bernardino,Third Striker,600.0,Drug Crimes,DEC2032,Folsom State Prison,50.0,26.0,2050-04-02
+297007de,Black,PC236,False Imprisonment,03/07/2004,03/07/2004,TA073999,Los Angeles,Third Striker,312.0,Other Crimes,NOV2025,Mule Creek State Prison,26.0,22.1,2030-03-07
+688582af,Black,PC12020(a),MFG/SAL/POSS WPN,08/09/1995,08/09/1995,,Fresno,Third Striker,300.0,Other Crimes,APR2019,Correctional Training Facility,25.0,30.7,2020-08-09
+14fcf091,Puerto Rican,PC459 2nd,Burglary 2nd,01/22/1996,01/22/1996,SM097869,Santa Barbara,Third Striker,348.0,Property Crimes,JAN2022,Kern Valley State Prison,29.0,30.2,2025-01-22
+28416d6c,White,,,,,,,Other,,,,Wasco State Prison,,,
+ab72092a,American Indian,PC12021(a)(1),POSS F/A EX-FEL,07/01/1998,07/01/1998,,San Bernardino,Third Striker,300.0,Other Crimes,AUG2021,High Desert State Prison,25.0,27.8,2023-07-01
+becefaef,Black,PC459 2nd,Burglary 2nd,08/12/1999,08/12/1999,6382410,Fresno,Third Striker,348.0,Property Crimes,DEC2024,California Men's Colony,29.0,26.6,2028-08-12
+c3106ffa,American Indian,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,06/24/1998,06/24/1998,98F5844,Shasta,Third Striker,300.0,Crimes Against Persons,DEC2021,California Substance Abuse Treatment Facility,25.0,27.8,2023-06-24
+61326cf7,Black,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,02/10/1996,02/10/1996,2040820409,Merced,Third Striker,300.0,Crimes Against Persons,OCT2020,California Health Care Facility - Stockton,25.0,30.2,2021-02-10
+a888be1d,American Indian,HS11351,Possess Controlled Substance for Sale,03/19/2003,03/19/2003,03F02459,Sacramento,Third Striker,348.0,Drug Crimes,MAY2024,California Health Care Facility - Stockton,29.0,23.0,2032-03-19
+e8165597,Other,PC245(b),Assault with Semiautomatic Firearm,12/13/1998,12/13/1998,6252209,Fresno,Second Striker,468.0,Crimes Against Persons,JUN2029,High Desert State Prison,39.0,27.3,2037-12-13
+923da9e0,White,VC23152(a),Driving Under Influence W/Priors,08/11/1998,08/11/1998,208171,Santa Clara,Third Striker,300.0,Other Crimes,APR2021,Valley State Prison,25.0,27.7,2023-08-11
+599fdd9c,Black,VC10851(a),Vehicle Theft,06/30/1997,06/30/1997,LA027670,Los Angeles,Third Striker,300.0,Property Crimes,NOV2021,California Substance Abuse Treatment Facility,25.0,28.8,2022-06-30
+52d5bfe7,American Indian,HS11377(a),Possession of Controlled Substance,12/12/1996,12/12/1996,,San Bernardino,Third Striker,300.0,Drug Crimes,JUN2020,RJ Donovan Correctional Facility,25.0,29.3,2021-12-12
+3a9721dd,Black,PC653f(b),Solicit Another to Commit/Join in Commission of Murder,09/08/1997,09/08/1997,BA156752,Los Angeles,Third Striker,300.0,Crimes Against Persons,OCT2022,San Quentin Rehabilitation Center,25.0,28.6,2022-09-08
+cfb7d3a2,Black,PC476a,NSF Check,06/24/1997,06/24/1997,,Sacramento,Third Striker,312.0,Property Crimes,MAY2021,California Substance Abuse Treatment Facility,26.0,28.8,2023-06-24
+148aa78f,Mexican,PC12021(a)(1),POSS F/A EX-FEL,08/21/1997,08/21/1997,,Los Angeles,Third Striker,300.0,Other Crimes,MAY2022,Salinas Valley State Prison,25.0,28.6,2022-08-21
+a7652f70,Hispanic,HS11377(a),Possession of Controlled Substance,07/23/2006,07/23/2006,KA075836,Los Angeles,Third Striker,316.0,Drug Crimes,DEC2026,Calipatria State Prison,26.3,19.7,2032-11-23
+ac2515db,Hispanic,HS11351,Possess Controlled Substance for Sale,09/08/2005,09/08/2005,SA057729,Los Angeles,Third Striker,412.0,Drug Crimes,JUN2032,"California State Prison, Solano",34.3,20.6,2040-01-08
+dc5940d9,Mexican,PC496(a),Receiving Stolen Property,07/30/2004,07/30/2004,04SF0872,Orange,Third Striker,300.0,Property Crimes,DEC2023,California Institution for Men,25.0,21.7,2029-07-30
+0c3c6104,Black,,,,,,,Other,,,,North Kern State Prison,,,
+a057800c,Filipino,PC12021(a)(1),POSS F/A EX-FEL,07/27/1995,07/27/1995,NA025389,Los Angeles,Third Striker,300.0,Other Crimes,JUN2020,California Institution for Men,25.0,30.7,2020-07-27
+549d4cc2,Hispanic,PC417.8,Exhibit Weapon W/Intent to Resist,02/10/1997,02/10/1997,KA035075,Los Angeles,Third Striker,300.0,Other Crimes,JUN2020,California Medical Facility,25.0,29.2,2022-02-10
+ea1e9f89,Black,HS11379(a),Transport/Import Controlled Substance,11/16/1999,11/16/1999,,San Diego,Third Striker,300.0,Drug Crimes,MAR2022,Correctional Training Facility,25.0,26.4,2024-11-16
+dcefddfd,Black,PC236,False Imprisonment,12/25/2001,12/25/2001,BA230105,Los Angeles,Third Striker,300.0,Other Crimes,OCT2023,"California State Prison, Los Angeles County",25.0,24.3,2026-12-25
+caea891f,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,09/02/1997,09/02/1997,,Fresno,Third Striker,300.0,Crimes Against Persons,SEP2020,California Institution for Men,25.0,28.6,2022-09-02
+f1fca796,Black,PC12021(a)(1),POSS F/A EX-FEL,11/29/2001,11/29/2001,BA228896,Los Angeles,Third Striker,300.0,Other Crimes,FEB2024,Valley State Prison,25.0,24.3,2026-11-29
+d88a1d74,Black,PC459 2nd,Burglary 2nd,05/26/2003,05/26/2003,YA055347,Los Angeles,Third Striker,600.0,Property Crimes,AUG2038,Calipatria State Prison,50.0,22.9,2053-05-26
+dca4fd0a,Black,PC459 2nd,Burglary 2nd,03/24/1994,03/24/1994,4377,San Benito,Third Striker,1200.0,Property Crimes,JUN2057,Valley State Prison,100.0,32.0,2094-03-24
+8c492431,Mexican,HS11370.1(a),Possession of CS While Armed w/Loaded Firearm,11/29/1997,11/29/1997,FCH02596,San Bernardino,Third Striker,300.0,Drug Crimes,APR2020,California Substance Abuse Treatment Facility,25.0,28.4,2022-11-29
+6689f93d,White,PC12021(a)(1),POSS F/A EX-FEL,12/04/1996,12/04/1996,SCR2579,Placer,Third Striker,300.0,Other Crimes,NOV2020,Folsom State Prison,25.0,29.3,2021-12-04
+048edfee,Mexican,PC12021(a)(1),POSS F/A EX-FEL,02/07/2002,02/07/2002,SC083903,Kern,Third Striker,300.0,Other Crimes,AUG2023,Correctional Training Facility,25.0,24.2,2027-02-07
+f8315775,Black,HS11350(a),Possess Controlled Substance,06/28/1995,06/28/1995,,Los Angeles,Third Striker,300.0,Drug Crimes,JUN2019,Pelican Bay State Prison,25.0,30.8,2020-06-28
+c9de0f7b,Black,HS11351.5,Possess/Purchase Cocaine for Sale,05/21/1998,05/21/1998,SC074150,Kern,Third Striker,348.0,Drug Crimes,JUN2024,Correctional Training Facility,29.0,27.9,2027-05-21
+228b1862,Black,PC273.5(e)(1),Corporal Injury Spouse w/in 7 yrs of Prior/Specified Convict,12/01/2012,12/01/2012,RIF1301693,Riverside,Third Striker,348.0,Crimes Against Persons,AUG2034,Salinas Valley State Prison,29.0,13.3,2041-12-01
+e2f08c22,Mexican,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,04/13/1997,04/13/1997,219156,Santa Barbara,Third Striker,300.0,Crimes Against Persons,JUL2020,California Health Care Facility - Stockton,25.0,29.0,2022-04-13
+b0084654,American Indian,PC12021(a)(1),POSS F/A EX-FEL,08/07/1997,08/07/1997,SCD130683,San Diego,Third Striker,348.0,Other Crimes,MAR2022,"California State Prison, Corcoran",29.0,28.7,2026-08-07
+8f8af95a,Hispanic,PC487(a),Grand Theft Exceeding $400,01/26/2010,01/26/2010,,Los Angeles,Third Striker,324.0,Property Crimes,SEP2025,California Institution for Men,27.0,16.2,2037-01-26
+520b8aa2,Mexican,PC12021(a)(1),POSS F/A EX-FEL,02/26/2007,02/26/2007,LA055007,Los Angeles,Third Striker,300.0,Other Crimes,FEB2025,Folsom State Prison,25.0,19.1,2032-02-26
+24995c96,Mexican,HS11380(a),Employment of Minor for Unlawful Transaction,10/28/2013,10/29/2013,VA134949,Los Angeles,Second Striker,372.0,Drug Crimes,FEB2031,California Rehabilitation Center,31.0,12.4,2044-10-29
+c54f4c4c,Black,PC12280(b),Possess Assault Weapon,03/09/2000,03/09/2000,VA059127,Los Angeles,Third Striker,300.0,Other Crimes,MAR2022,San Quentin Rehabilitation Center,25.0,26.1,2025-03-09
+0763dc55,Mexican,HS11379(a),Transport/Import Controlled Substance,09/09/2000,09/09/2000,KA049830,Los Angeles,Third Striker,324.0,Drug Crimes,MAY2023,Centinela State Prison,27.0,25.6,2027-09-09
+9a9c3bda,Black,PC594(b)(1),Vandalism,07/09/2002,07/09/2002,6717185,Fresno,Third Striker,324.0,Property Crimes,JUN2024,Folsom State Prison,27.0,23.7,2029-07-09
+92abd89d,White,HS11377(a),Possession of Controlled Substance,07/17/2000,07/17/2000,,Riverside,Third Striker,384.0,Drug Crimes,OCT2023,San Quentin Rehabilitation Center,32.0,25.7,2032-07-17
+63964c63,Black,PC459 2nd,Burglary 2nd,11/09/2000,11/09/2000,00WF2458,Orange,Third Striker,312.0,Property Crimes,JAN2024,"California State Prison, Solano",26.0,25.4,2026-11-09
+dfe301d3,American Indian,PC69,Resisting/Deterring Officer w/ Threat/Violence,05/24/2013,05/24/2013,132171,Yolo,Third Striker,600.0,Crimes Against Persons,JAN2040,"California State Prison, Solano",50.0,12.9,2063-05-24
+3abceb1e,Mexican,HS11351,Possess Controlled Substance for Sale,08/03/1995,08/03/1995,,Los Angeles,Third Striker,300.0,Drug Crimes,MAR2019,Valley State Prison,25.0,30.7,2020-08-03
+9c324a6e,Black,HS11352(a),Transport/Sell Controlled Substance,10/13/1996,10/13/1996,CR39910,Ventura,Third Striker,300.0,Drug Crimes,APR2021,California Substance Abuse Treatment Facility,25.0,29.5,2021-10-13
+c0169be4,Black,PC12021(a)(1),POSS F/A EX-FEL,11/15/2001,11/15/2001,SC083357,Kern,Third Striker,300.0,Other Crimes,SEP2025,RJ Donovan Correctional Facility,25.0,24.4,2026-11-15
+1c8057d2,Hispanic,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,02/07/2001,02/07/2001,CR103865,Napa,Third Striker,300.0,Crimes Against Persons,JUL2022,Mule Creek State Prison,25.0,25.2,2026-02-07
+9b73a697,Mexican,HS11378,Possession Controlled Substance for Sale,01/28/1999,01/28/1999,,Tulare,Third Striker,396.0,Drug Crimes,FEB2022,California Substance Abuse Treatment Facility,33.0,27.2,2032-01-28
+25484ac8,White,HS11379.6(a),Manufacture Controlled Substance,09/04/2003,09/04/2003,03F6857,Shasta,Third Striker,300.0,Drug Crimes,OCT2022,Pelican Bay State Prison,25.0,22.6,2028-09-04
+e5135ed3,White,PC12021(a)(1),POSS F/A EX-FEL,07/31/2000,07/31/2000,,San Diego,Third Striker,324.0,Other Crimes,NOV2022,California Men's Colony,27.0,25.7,2027-07-31
+40a77755,Mexican,PC245(b),Assault with Semiautomatic Firearm,11/28/2002,11/28/2002,KA059678,Los Angeles,Third Striker,804.0,Crimes Against Persons,NOV2052,Folsom State Prison,67.0,23.4,2069-11-28
+e70dd844,Black,PC12021(a)(1),POSS F/A EX-FEL,04/27/1997,04/27/1997,SC043066,San Mateo,Third Striker,348.0,Other Crimes,MAR2021,Folsom State Prison,29.0,28.9,2026-04-27
+4503e806,Black,PC245(b),Assault with Semiautomatic Firearm,06/02/1997,06/02/1997,VC45001,Solano,Second Striker,432.0,Crimes Against Persons,JAN2029,Salinas Valley State Prison,36.0,28.8,2033-06-02
+28521866,White,HS11377(a),Possession of Controlled Substance,10/28/1997,10/28/1997,143275,Stanislaus,Third Striker,300.0,Drug Crimes,JUN2021,High Desert State Prison,25.0,28.4,2022-10-28
+e7e52b87,Black,PC12031(a),Carry Loaded Firearm,03/31/2002,03/31/2002,BA229794,Los Angeles,Third Striker,300.0,Other Crimes,JAN2023,California Health Care Facility - Stockton,25.0,24.0,2027-03-31
+63dee321,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,06/30/2001,06/30/2001,01F05903,Sacramento,Third Striker,468.0,Crimes Against Persons,SEP2031,California Medical Facility,39.0,24.8,2040-06-30
+7b1b2406,Mexican,PC12021(a)(1),POSS F/A EX-FEL,06/09/2002,06/09/2002,CF11489,Imperial,Third Striker,336.0,Other Crimes,MAY2023,California Health Care Facility - Stockton,28.0,23.8,2030-06-09
+4e23cdc4,Black,PC314(1),Indecent Exposure,03/27/1999,03/27/1999,,Santa Clara,Third Striker,324.0,Crimes Against Persons,JUL2025,Kern Valley State Prison,27.0,27.0,2026-03-27
+70621fcc,Black,PC646.9(a),Stalking,11/16/2006,11/16/2006,CM026600,Butte,Third Striker,300.0,Other Crimes,SEP2024,High Desert State Prison,25.0,19.4,2031-11-16
+c4e09439,Mexican,PC12021(a)(1),POSS F/A EX-FEL,08/09/2000,08/09/2000,KA049485,Los Angeles,Third Striker,300.0,Other Crimes,JUN2022,"California State Prison, Solano",25.0,25.7,2025-08-09
+b02b5f79,Mexican,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,01/09/2002,01/09/2002,6761217,Fresno,Third Striker,336.0,Crimes Against Persons,FEB2025,"California State Prison, Corcoran",28.0,24.2,2030-01-09
+d0acb05e,Black,PC459 2nd,Burglary 2nd,04/21/2002,04/21/2002,YA051658,Los Angeles,Third Striker,300.0,Property Crimes,MAR2025,High Desert State Prison,25.0,24.0,2027-04-21
+36240973,Hispanic,VC23153(a),DUI/Bodily Injury/One Prior,09/24/2004,09/24/2004,RIF119558,Riverside,Third Striker,300.0,Other Crimes,JUN2023,San Quentin Rehabilitation Center,25.0,21.5,2029-09-24
+565774ca,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,08/04/1999,08/04/1999,YA042689,Los Angeles,Third Striker,300.0,Crimes Against Persons,JAN2023,California Substance Abuse Treatment Facility,25.0,26.7,2024-08-04
+af2ffb48,Black,PC246.3(a),Discharge Firearm with Gross Negligence,09/14/2003,09/14/2003,NA058508,Los Angeles,Third Striker,300.0,Other Crimes,AUG2027,Centinela State Prison,25.0,22.6,2028-09-14
+cd406067,Black,PC646.9(a),Stalking,11/01/1999,08/25/2000,GA043389,Los Angeles,Third Striker,348.0,Other Crimes,OCT2024,"California State Prison, Los Angeles County",29.0,25.6,2029-08-25
+811aa5b2,Black,PC236,False Imprisonment,04/02/2004,04/02/2004,BA280415,Los Angeles,Third Striker,300.0,Other Crimes,AUG2023,"California State Prison, Corcoran",25.0,22.0,2029-04-02
+b3503fec,White,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,11/17/1999,11/17/1999,VA056865,Los Angeles,Third Striker,300.0,Crimes Against Persons,NOV2022,Centinela State Prison,25.0,26.4,2024-11-17
+a5b30e05,Mexican,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,01/13/2004,01/13/2004,,Santa Clara,Third Striker,300.0,Crimes Against Persons,MAR2024,California Institution for Men,25.0,22.2,2029-01-13
+190a8350,Hispanic,PC524,Attempt to Threat or Extort Money or Property,08/21/2006,08/21/2006,,San Bernardino,Third Striker,300.0,Property Crimes,JAN2028,Kern Valley State Prison,25.0,19.6,2031-08-21
+a5c2af24,Black,PC12021(a)(1),POSS F/A EX-FEL,12/25/2006,12/25/2006,TA088332,Los Angeles,Third Striker,300.0,Other Crimes,AUG2025,"California State Prison, Corcoran",25.0,19.3,2031-12-25
+c4e550d7,Other,HS11352(a),Transport/Sell Controlled Substance,09/01/1999,09/01/1999,C9951640,Santa Clara,Third Striker,616.0,Drug Crimes,MAR2036,"California State Prison, Solano",51.3,26.6,2051-01-01
+96ff4c11,Mexican,PC597,Cruelty to Animals,10/18/1998,10/18/1998,,Riverside,Third Striker,376.0,Property Crimes,JUN2024,Ironwood State Prison,31.3,27.5,2030-02-18
+63983166,Black,PC470a,Forge Drivers License or ID,03/26/1997,03/26/1997,BA153362,Los Angeles,Third Striker,300.0,Property Crimes,NOV2021,"California State Prison, Los Angeles County",25.0,29.0,2022-03-26
+f0cee334,White,HS11350(a),Possess Controlled Substance,04/06/2006,04/06/2006,CC625858,Santa Clara,Third Striker,300.0,Drug Crimes,AUG2024,California Health Care Facility - Stockton,25.0,20.0,2031-04-06
+2d76de9e,Hispanic,PC245(b),Assault with Semiautomatic Firearm,11/18/2015,11/18/2015,VA140664,Los Angeles,DSL,296.0,Crimes Against Persons,DEC2032,Folsom State Prison,24.7,10.4,2040-07-18
+f87fb04f,Mexican,HS11378,Possession Controlled Substance for Sale,09/24/1996,09/24/1996,193828,Santa Clara,Third Striker,744.0,Drug Crimes,JUL2038,"California State Prison, Solano",62.0,29.5,2058-09-24
+46c41324,Black,VC21651(c),Driving on Wrong Side of Road Causing Death or Injury,06/20/2002,06/20/2002,FCR200854,Solano,Third Striker,552.0,Other Crimes,JUN2037,"California State Prison, Solano",46.0,23.8,2048-06-20
+e7ee6784,Mexican,PC12280(b),Possess Assault Weapon,06/21/2005,06/21/2005,KA071282,Los Angeles,Third Striker,348.0,Other Crimes,APR2026,Kern Valley State Prison,29.0,20.8,2034-06-21
+d2663145,American Indian,PC12021(a)(1),POSS F/A EX-FEL,02/15/2005,02/15/2005,F05901429,Fresno,Third Striker,300.0,Other Crimes,APR2026,California Men's Colony,25.0,21.1,2030-02-15
+5b841148,White,HS11379(a),Transport/Import Controlled Substance,07/23/2006,07/23/2006,,Shasta,Third Striker,300.0,Drug Crimes,NOV2025,Pleasant Valley State Prison,25.0,19.7,2031-07-23
+05149721,White,PC487(a),Grand Theft Exceeding $400,03/29/2002,03/29/2002,,Riverside,Third Striker,6000.0,Property Crimes,OCT2260,California Health Care Facility - Stockton,500.0,24.0,
+2cdc3dc7,Mexican,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,02/08/2007,02/08/2007,F07300097,Fresno,Third Striker,300.0,Crimes Against Persons,MAR2025,Valley State Prison,25.0,19.2,2032-02-08
+6d2c3899,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,09/30/2005,09/30/2005,CC507124,Santa Clara,Third Striker,348.0,Crimes Against Persons,MAR2029,Mule Creek State Prison,29.0,20.5,2034-09-30
+dcad4e58,Hispanic,PC12021(a)(1),POSS F/A EX-FEL,03/01/2007,03/01/2007,INF057587,Riverside,Third Striker,384.0,Other Crimes,MAY2027,"California State Prison, Los Angeles County",32.0,19.1,2039-03-01
+9f6b6c1f,White,VC20001(b)(1),Hit and Run Causing Injury of Person other than Self,12/31/2007,12/31/2007,08F15,Shasta,Third Striker,324.0,Other Crimes,OCT2026,California Substance Abuse Treatment Facility,27.0,18.3,2034-12-31
+15fcc37b,Mexican,,,,,,,Other,,,,Wasco State Prison,,,
+05af785d,Hispanic,PC245(b),Assault with Semiautomatic Firearm,08/17/2007,08/17/2007,GA070679,Los Angeles,Second Striker,324.0,Crimes Against Persons,FEB2029,Salinas Valley State Prison,27.0,18.6,2034-08-17
+08002b27,White,PC12021(a)(1),POSS F/A EX-FEL,04/30/2004,04/30/2004,05F07715,Sacramento,Third Striker,300.0,Other Crimes,JAN2024,Folsom State Prison,25.0,21.9,2029-04-30
+16e3a5b9,Black,PC12021(a)(1),POSS F/A EX-FEL,10/25/2007,10/25/2007,07F10132,Sacramento,Third Striker,300.0,Other Crimes,FEB2026,San Quentin Rehabilitation Center,25.0,18.4,2032-10-25
+57921ffe,Black,PC245(b),Assault with Semiautomatic Firearm,05/19/2005,05/19/2005,BA306194,Los Angeles,Third Striker,504.0,Crimes Against Persons,AUG2035,Salinas Valley State Prison,42.0,20.9,2047-05-19
+328e6f77,Black,PC245(b),Assault with Semiautomatic Firearm,05/19/2005,05/19/2005,BA306194,Los Angeles,Third Striker,996.0,Crimes Against Persons,MAY2052,Correctional Training Facility,83.0,20.9,2088-05-19
+844b75a5,White,HS11377(a),Possession of Controlled Substance,10/08/2004,10/08/2004,FSB047468,San Bernardino,Third Striker,300.0,Drug Crimes,SEP2023,"California State Prison, Los Angeles County",25.0,21.5,2029-10-08
+a0188000,Hispanic,PC12021(a)(1),POSS F/A EX-FEL,08/27/2006,08/27/2006,06NF3068,Orange,Third Striker,300.0,Other Crimes,AUG2025,Correctional Training Facility,25.0,19.6,2031-08-27
+e4f5ed03,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+3cb9b2ca,Black,PC245(b),Assault with Semiautomatic Firearm,10/30/2012,10/30/2012,VA127423,Los Angeles,Third Striker,516.0,Crimes Against Persons,MAR2046,"California State Prison, Los Angeles County",43.0,13.4,2055-10-30
+dede53d9,White,PC12021(a)(1),POSS F/A EX-FEL,02/28/2003,02/28/2003,BF101761,Kern,Third Striker,348.0,Other Crimes,JUN2023,California Institution for Men,29.0,23.1,2032-02-28
+6914bd16,White,VC10851(a),Vehicle Theft,06/02/1997,06/02/1997,222551,Santa Barbara,Third Striker,612.0,Property Crimes,JAN2034,Salinas Valley State Prison,51.0,28.8,2048-06-02
+7cb97d5e,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,02/19/2011,02/19/2011,168588,Alameda,DSL,240.0,Crimes Against Persons,APR2025,California Medical Facility,20.0,15.1,2031-02-19
+ddad0633,White,PC191.5(d),Manslaughter by Motor Vehicle/DUI with Priors,08/31/1997,08/31/1997,A42409,Placer,Life with Parole,288.0,Crimes Against Persons,JUL2018,California Health Care Facility - Stockton,24.0,28.6,2021-08-31
+87f09b9a,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,12/15/1999,12/15/1999,FSB024959,San Bernardino,Third Striker,300.0,Crimes Against Persons,MAR2023,San Quentin Rehabilitation Center,25.0,26.3,2024-12-15
+7ebad13a,American Indian,HS11377(a),Possession of Controlled Substance,04/24/2008,04/24/2008,CM028831,Butte,Third Striker,660.0,Drug Crimes,MAY2040,Kern Valley State Prison,55.0,17.9,2063-04-24
+6f8ac658,White,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,03/18/1996,03/18/1996,PA023303,Los Angeles,Third Striker,600.0,Crimes Against Persons,OCT2035,Kern Valley State Prison,50.0,30.1,2046-03-18
+edc6b0c9,Black,PC273.5(e)(1),Corporal Injury Spouse w/in 7 yrs of Prior/Specified Convict,02/14/2008,02/14/2008,CC896128,Santa Clara,Third Striker,756.0,Crimes Against Persons,JUN2054,"California State Prison, Sacramento",63.0,18.1,2071-02-14
+432a020a,Mexican,PC487(a),Grand Theft Exceeding $400,09/28/2001,09/28/2001,,Santa Clara,Third Striker,300.0,Property Crimes,FEB2025,"California State Prison, Los Angeles County",25.0,24.5,2026-09-28
+d23c1f84,Black,PC246.3(a),Discharge Firearm with Gross Negligence,03/21/2002,03/21/2002,SF085385,San Joaquin,Third Striker,1020.0,Other Crimes,OCT2051,Correctional Training Facility,85.0,24.0,2087-03-21
+77b287b4,Mexican,HS11377(a),Possession of Controlled Substance,04/05/2001,04/05/2001,,Santa Clara,Third Striker,312.0,Drug Crimes,APR2023,California Institution for Men,26.0,25.0,2027-04-05
+27ade6d1,Mexican,VC2800.3,EVADE P/O CAUSING BOD INJ/DEATH,09/29/1997,09/29/1997,BA157140,Los Angeles,Third Striker,300.0,Crimes Against Persons,MAY2021,Centinela State Prison,25.0,28.5,2022-09-29
+e496fec9,Mexican,PC12021.1(a),POSS F/A BY PERS CONV SPEC OFF,02/18/2002,02/18/2002,KA056145,Los Angeles,Third Striker,300.0,Other Crimes,SEP2025,Salinas Valley State Prison,25.0,24.1,2027-02-18
+cb13d882,Hispanic,PC12021(a)(1),POSS F/A EX-FEL,02/21/2002,02/21/2002,KA056067,Los Angeles,Third Striker,316.0,Other Crimes,APR2023,Correctional Training Facility,26.3,24.1,2028-06-21
+92b8edf2,Mexican,PC12021(a)(1),POSS F/A EX-FEL,06/19/2002,06/19/2002,LA040826,Los Angeles,Third Striker,300.0,Other Crimes,AUG2024,"California State Prison, Solano",25.0,23.8,2027-06-19
+96202e99,White,PC29800(a)(1),Poss/Own F'Arm by Felon or Addict,08/07/2014,08/07/2014,,Fresno,Third Striker,300.0,Other Crimes,OCT2027,Avenal State Prison,25.0,11.7,2039-08-07
+f59592c7,Hispanic,HS11370.1(a),Possession of CS While Armed w/Loaded Firearm,10/02/2003,10/02/2003,VA079744,Los Angeles,Third Striker,300.0,Drug Crimes,AUG2023,"California State Prison, Solano",25.0,22.5,2028-10-02
+2696e80b,Hispanic,HS11351,Possess Controlled Substance for Sale,03/30/2012,03/30/2012,NA092417,Los Angeles,Second Striker,420.0,Drug Crimes,NOV2032,North Kern State Prison,35.0,14.0,2047-03-30
+b8257c86,Black,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,07/12/2010,07/12/2010,10F04539,Sacramento,Third Striker,300.0,Crimes Against Persons,MAY2027,California Health Care Facility - Stockton,25.0,15.7,2035-07-12
+85aa7151,White,HS11378,Possession Controlled Substance for Sale,05/30/1997,05/30/1997,,San Diego,Third Striker,300.0,Drug Crimes,OCT2022,San Quentin Rehabilitation Center,25.0,28.9,2022-05-30
+d2f9e4d8,American Indian,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,05/16/1998,05/16/1998,98WF1237,Orange,Third Striker,348.0,Crimes Against Persons,JAN2022,Centinela State Prison,29.0,27.9,2027-05-16
+bebe571a,Hispanic,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,01/13/2012,01/13/2012,TA122125,Los Angeles,Third Striker,360.0,Crimes Against Persons,MAY2034,Folsom State Prison,30.0,14.2,2042-01-13
+587fed7c,Mexican,PC12021(a)(1),POSS F/A EX-FEL,11/24/2009,11/24/2009,INF067289B,Riverside,Third Striker,300.0,Other Crimes,MAY2024,Ironwood State Prison,25.0,16.4,2034-11-24
+1281e1ba,Black,PC245(b),Assault with Semiautomatic Firearm,02/28/2005,02/28/2005,05F01814,Sacramento,Second Striker,312.0,Crimes Against Persons,SEP2029,California Substance Abuse Treatment Facility,26.0,21.1,2031-02-28
+5a13f547,Other,PC236,False Imprisonment,05/05/2000,05/05/2000,BA203503,Los Angeles,Third Striker,312.0,Other Crimes,DEC2022,Folsom State Prison,26.0,25.9,2026-05-05
+98272370,Hispanic,PC653f(a),Solicitation to Commit a Felony,02/21/2009,02/21/2009,6288013,Placer,Third Striker,396.0,Other Crimes,JUL2029,Mule Creek State Prison,33.0,17.1,2042-02-21
+bf435294,Black,HS11352(a),Transport/Sell Controlled Substance,03/11/2003,03/11/2003,RIF109651,Riverside,Third Striker,900.0,Drug Crimes,FEB2049,"California State Prison, Sacramento",75.0,23.1,2078-03-11
+d30499c7,Black,,,,,,,Other,,,,North Kern State Prison,,,
+a0edcefe,Black,PC12021(a)(1),POSS F/A EX-FEL,04/10/2002,04/10/2002,BA230144,Los Angeles,Third Striker,300.0,Other Crimes,APR2025,"California State Prison, Los Angeles County",25.0,24.0,2027-04-10
+c84fa426,White,HS11383(c)(1),Possess Drugs w/Intent to Manufacture,07/30/2001,07/30/2001,,Butte,Third Striker,788.0,Drug Crimes,AUG2037,San Quentin Rehabilitation Center,65.7,24.7,2067-03-30
+53e87dca,Mexican,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,07/10/2005,07/10/2005,SCD192318,San Diego,Third Striker,300.0,Crimes Against Persons,FEB2024,RJ Donovan Correctional Facility,25.0,20.7,2030-07-10
+b223a0dc,Mexican,HS11352(a),Transport/Sell Controlled Substance,01/11/2009,01/11/2009,,Los Angeles,Third Striker,300.0,Drug Crimes,JUN2026,California Health Care Facility - Stockton,25.0,17.2,2034-01-11
+24755bc0,Mexican,PC4501.5,Battery on Non Prisoner,04/24/2006,04/24/2006,BLF004402,Riverside,Third Striker,412.0,Crimes Against Persons,JAN2029,Kern Valley State Prison,34.3,19.9,2040-08-24
+8c37a5f9,Black,HS11351.5,Possess/Purchase Cocaine for Sale,05/01/2007,05/01/2007,MA038466,Los Angeles,Third Striker,516.0,Drug Crimes,DEC2033,Correctional Training Facility,43.0,18.9,2050-05-01
+c04a6770,Hispanic,PC245(b),Assault with Semiautomatic Firearm,11/18/2012,11/18/2012,NA094149,Los Angeles,DSL,324.0,Crimes Against Persons,MAY2032,Centinela State Prison,27.0,13.4,2039-11-18
+7b0cd70f,Hispanic,PC245(b),Assault with Semiautomatic Firearm,07/25/2010,07/25/2010,,Orange,DSL,300.0,Crimes Against Persons,JAN2029,Centinela State Prison,25.0,15.7,2035-07-25
+816ae323,White,PC245(b),Assault with Semiautomatic Firearm,07/18/2010,07/18/2010,10F04690,Sacramento,DSL,264.0,Crimes Against Persons,MAY2026,Avenal State Prison,22.0,15.7,2032-07-18
+492eafe7,Hispanic,PC245(b),Assault with Semiautomatic Firearm,02/04/2011,02/04/2011,,Fresno,DSL,312.0,Crimes Against Persons,OCT2031,Calipatria State Prison,26.0,15.2,2037-02-04
+4e7d90c2,White,,,,,,,Other,,,,Wasco State Prison,,,
+f8a73804,White,,,,,,,Other,,,,Wasco State Prison,,,
+2e651b92,Black,PC12021(a)(1),POSS F/A EX-FEL,09/16/2004,09/16/2004,TA076400,Los Angeles,Third Striker,300.0,Other Crimes,JUN2024,Correctional Training Facility,25.0,21.5,2029-09-16
+f2d26057,White,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,08/31/2003,08/31/2003,KA063311,Los Angeles,Third Striker,900.0,Crimes Against Persons,DEC2049,"California State Prison, Sacramento",75.0,22.6,2078-08-31
+4f6bc6e7,Other,PC245(b),Assault with Semiautomatic Firearm,12/26/2002,12/26/2002,CF03900158,Fresno,DSL,348.0,Crimes Against Persons,OCT2025,Correctional Training Facility,29.0,23.3,2031-12-26
+78edc6d6,Other,PC245(b),Assault with Semiautomatic Firearm,12/04/2011,12/04/2011,NA090775,Los Angeles,DSL,252.0,Crimes Against Persons,NOV2027,Correctional Training Facility,21.0,14.3,2032-12-04
+4bf27a7f,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+a63979f9,Black,PC245(b),Assault with Semiautomatic Firearm,10/09/2015,10/09/2015,,San Diego,DSL,288.0,Crimes Against Persons,JUN2033,Kern Valley State Prison,24.0,10.5,2039-10-09
+22fb8ab2,White,,,,,,,Other,,,,Wasco State Prison,,,
+440fa9a9,Black,PC245(b),Assault with Semiautomatic Firearm,06/17/2011,06/17/2011,BA385713,Los Angeles,Second Striker,264.0,Crimes Against Persons,APR2030,California Correctional Institution,22.0,14.8,2033-06-17
+2f502620,Hispanic,PC245(b),Assault with Semiautomatic Firearm,06/10/2010,06/10/2010,,Merced,DSL,264.0,Crimes Against Persons,MAY2027,Avenal State Prison,22.0,15.8,2032-06-10
+69f634dc,White,,,,,,,Other,,,,North Kern State Prison,,,
+18432e8c,Black,PC245(b),Assault with Semiautomatic Firearm,01/07/2011,01/07/2011,BA394540,Los Angeles,DSL,288.0,Crimes Against Persons,AUG2028,Centinela State Prison,24.0,15.2,2035-01-07
+0e93e5d2,Hispanic,PC245(b),Assault with Semiautomatic Firearm,08/12/2010,08/12/2010,10NF2522,Orange,Second Striker,380.0,Crimes Against Persons,SEP2032,Folsom State Prison,31.7,15.6,2042-04-12
+00a1455a,Black,PC273a(a),Abuse/Endanger Health of Child,02/10/2011,02/10/2011,TA116740,Los Angeles,DSL,264.0,Crimes Against Persons,APR2030,Calipatria State Prison,22.0,15.1,2033-02-10
+d5c22336,White,PC245(b),Assault with Semiautomatic Firearm,07/17/2011,07/17/2011,VCF255828,Tulare,Second Striker,252.0,Crimes Against Persons,JUN2027,Correctional Training Facility,21.0,14.7,2032-07-17
+56a61f08,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+1bfaac37,Black,,,,,,,Other,,,,Wasco State Prison,,,
+2aa270a1,Hispanic,PC245(b),Assault with Semiautomatic Firearm,05/25/2010,05/25/2010,NA085835,Los Angeles,Second Striker,456.0,Crimes Against Persons,NOV2039,Centinela State Prison,38.0,15.9,2048-05-25
+9fe90317,Black,HS11377(a),Possession of Controlled Substance,02/06/2010,02/06/2010,,Los Angeles,Third Striker,300.0,Drug Crimes,SEP2026,Pelican Bay State Prison,25.0,16.2,2035-02-06
+762f4a99,Hispanic,PC245(b),Assault with Semiautomatic Firearm,06/03/2013,06/03/2013,YA087576,Los Angeles,Second Striker,432.0,Crimes Against Persons,JAN2041,Calipatria State Prison,36.0,12.8,2049-06-03
+c7be8868,Hispanic,PC245(b),Assault with Semiautomatic Firearm,05/26/2007,05/26/2007,07F05646,Sacramento,Second Striker,308.0,Crimes Against Persons,JAN2032,California Correctional Institution,25.7,18.9,2033-01-26
+e38b0022,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+af664c0a,Black,PC245(b),Assault with Semiautomatic Firearm,02/23/2009,02/23/2009,SCD219147,San Diego,DSL,348.0,Crimes Against Persons,FEB2031,RJ Donovan Correctional Facility,29.0,17.1,2038-02-23
+b0bf11b0,Black,PC245(b),Assault with Semiautomatic Firearm,01/01/2008,01/01/2008,FCR250927,Solano,DSL,312.0,Crimes Against Persons,SEP2028,"California State Prison, Solano",26.0,18.3,2034-01-01
+ac28c4f3,Hispanic,HS11378,Possession Controlled Substance for Sale,12/14/2012,12/14/2012,,Sacramento,Second Striker,268.0,Drug Crimes,OCT2025,California Correctional Institution,22.3,13.3,2035-04-14
+a779129f,Black,PC245(b),Assault with Semiautomatic Firearm,09/06/2015,09/06/2015,609294,Alameda,Second Striker,292.0,Crimes Against Persons,MAY2029,Kern Valley State Prison,24.3,10.6,2040-01-06
+28d72aec,Other,PC245(b),Assault with Semiautomatic Firearm,11/09/2008,11/09/2008,SCS234794,San Diego,Second Striker,276.0,Crimes Against Persons,SEP2027,Sacramento Control Office,23.0,17.4,2031-11-09
+8cc76644,Hispanic,PC29800(a)(1),Poss/Own F'Arm by Felon or Addict,09/26/2014,09/26/2014,DF011820,Kern,Second Striker,240.0,Other Crimes,FEB2027,North Kern State Prison,20.0,11.5,2034-09-26
+c8bef5b4,Hispanic,PC245(b),Assault with Semiautomatic Firearm,09/18/2008,09/18/2008,LA060141,Los Angeles,DSL,324.0,Crimes Against Persons,DEC2033,Mule Creek State Prison,27.0,17.5,2035-09-18
+f68e3dd0,Hispanic,PC237(a),False Imprisonment with Violence,09/13/2012,09/13/2012,12CF2735,Orange,Third Striker,360.0,Other Crimes,NOV2029,Centinela State Prison,30.0,13.6,2042-09-13
+123bc796,Hispanic,PC245(b),Assault with Semiautomatic Firearm,10/13/2009,10/13/2009,,Los Angeles,DSL,348.0,Crimes Against Persons,JAN2033,Pelican Bay State Prison,29.0,16.5,2038-10-13
+e15bb455,Hispanic,PC245(b),Assault with Semiautomatic Firearm,07/15/2009,07/15/2009,09F05309,Sacramento,DSL,264.0,Crimes Against Persons,OCT2027,High Desert State Prison,22.0,16.7,2031-07-15
+58276a46,Black,PC245(b),Assault with Semiautomatic Firearm,04/01/2015,04/01/2015,BA436141,Los Angeles,DSL,408.0,Crimes Against Persons,MAY2040,Pelican Bay State Prison,34.0,11.0,2049-04-01
+59a67662,Other,,,,,,,Other,,,,North Kern State Prison,,,
+50864fbf,Hispanic,PC245(b),Assault with Semiautomatic Firearm,04/03/2010,04/03/2010,NA085301,Los Angeles,DSL,264.0,Crimes Against Persons,DEC2027,RJ Donovan Correctional Facility,22.0,16.0,2032-04-03
+31ad270f,Black,VC2800.3(a),Evading Peace Officer Causing Serious Bodily Injury,07/04/2012,07/04/2012,12F04607,Sacramento,Second Striker,240.0,Crimes Against Persons,APR2026,Sierra Conservation Center - Sugar Pine Camp,20.0,13.7,2032-07-04
+2bb271f6,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+3d0bbe51,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+4800aefe,Hispanic,PC182(a),Conspiracy to Commit Crime,07/29/2007,07/29/2007,VA103146,Los Angeles,Life with Parole,600.0,Other Crimes,MAY2046,Pelican Bay State Prison,50.0,18.7,2057-07-29
+3218fdbb,Black,PC245(b),Assault with Semiautomatic Firearm,05/01/2013,05/01/2013,SA083976,Los Angeles,DSL,256.0,Crimes Against Persons,JUN2028,High Desert State Prison,21.3,12.9,2034-09-01
+7e427d45,White,,,,,,,Other,,,,Wasco State Prison,,,
+8b3ed11e,Black,PC236.1(c)(01),Human Trafficking V/Minor,04/01/2015,12/31/2015,,Los Angeles,Second Striker,256.0,Other Crimes,MAY2028,"California State Prison, Solano",21.3,10.3,2037-04-30
+bd2e4e37,Hispanic,PC245(b),Assault with Semiautomatic Firearm,01/19/2014,01/19/2014,BA420551,Los Angeles,Second Striker,336.0,Crimes Against Persons,JUN2030,High Desert State Prison,28.0,12.2,2042-01-19
+1b961dd5,Hispanic,PC245(b),Assault with Semiautomatic Firearm,12/16/2013,12/16/2013,YA089155-02,Los Angeles,Second Striker,324.0,Crimes Against Persons,OCT2032,"California State Prison, Corcoran",27.0,12.3,2040-12-16
+8b9ed541,Hispanic,PC245(b),Assault with Semiautomatic Firearm,09/22/2008,09/22/2008,BA347638,Los Angeles,DSL,284.0,Crimes Against Persons,JUL2029,North Kern State Prison,23.7,17.5,2032-05-22
+d70c525f,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,12/13/1999,12/13/1999,KA046845,Los Angeles,Third Striker,300.0,Crimes Against Persons,JUL2024,Mule Creek State Prison,25.0,26.3,2024-12-13
+67fba743,Black,PC12021(a)(1),POSS F/A EX-FEL,01/08/1995,01/08/1995,TA032968,Los Angeles,Third Striker,300.0,Other Crimes,AUG2019,San Quentin Rehabilitation Center,25.0,31.2,2020-01-08
+29d8cb10,Black,PC245(b),Assault with Semiautomatic Firearm,09/01/2014,09/01/2014,VA136687,Los Angeles,Third Striker,624.0,Crimes Against Persons,AUG2049,Mule Creek State Prison,52.0,11.6,2066-09-01
+286fbdf3,White,HS11377(a),Possession of Controlled Substance,10/05/1994,10/05/1994,SC35413,San Mateo,Third Striker,1008.0,Drug Crimes,NOV2047,California Medical Facility,84.0,31.5,2078-10-05
+84ea4531,Black,VC10851(a),Vehicle Theft,05/18/2000,05/18/2000,PEF004508,Riverside,Third Striker,600.0,Property Crimes,JUL2035,"California State Prison, Corcoran",50.0,25.9,2050-05-18
+72b893d9,White,PC192(b),Involuntary Manslaughter,06/27/2001,06/27/2001,02CM7150,Kings,Third Striker,444.0,Crimes Against Persons,JUN2025,"California State Prison, Corcoran",37.0,24.8,2038-06-27
+0a90e119,Mexican,VC10851(a),Vehicle Theft,04/09/1994,04/09/1994,SA017369,Los Angeles,Third Striker,300.0,Property Crimes,JAN2019,"California State Prison, Los Angeles County",25.0,32.0,2019-04-09
+68faf26f,Mexican,HS11350(a),Possess Controlled Substance,03/27/2000,03/27/2000,PA036146,Los Angeles,Third Striker,324.0,Drug Crimes,FEB2024,Kern Valley State Prison,27.0,26.0,2027-03-27
+599eacf2,Black,VC10851(a),Vehicle Theft,05/16/1996,05/16/1996,VA037482,Los Angeles,Third Striker,300.0,Property Crimes,NOV2020,Centinela State Prison,25.0,29.9,2021-05-16
+a46a2ebf,Black,HS11377(a),Possession of Controlled Substance,09/14/1996,09/14/1996,,Kern,Third Striker,300.0,Drug Crimes,OCT2019,California Medical Facility,25.0,29.6,2021-09-14
+c45ee34c,Mexican,HS11377(a),Possession of Controlled Substance,02/28/1997,02/28/1997,KA035299,Los Angeles,Third Striker,348.0,Drug Crimes,APR2021,"California State Prison, Solano",29.0,29.1,2026-02-28
+fba6141c,Mexican,HS11370.1(a),Possession of CS While Armed w/Loaded Firearm,05/08/2003,05/08/2003,KA061835,Los Angeles,Third Striker,300.0,Drug Crimes,OCT2023,California Substance Abuse Treatment Facility,25.0,22.9,2028-05-08
+6317fbf6,Black,PC12021(a)(1),POSS F/A EX-FEL,04/07/1995,04/07/1995,NA024192,Los Angeles,Third Striker,300.0,Other Crimes,APR2020,California Institution for Men,25.0,31.0,2020-04-07
+5df9a8ba,White,PC192(c)(1),Vehicular Manslaughter With Gross Negligence,10/17/2014,10/17/2014,CR1479343,Mendocino,Second Striker,264.0,Crimes Against Persons,JAN2026,California Medical Facility,22.0,11.5,2036-10-17
+c04b20e7,Black,PC12021(a)(1),POSS F/A EX-FEL,11/26/1994,11/26/1994,GA022111,Los Angeles,Third Striker,300.0,Other Crimes,AUG2019,Mule Creek State Prison,25.0,31.4,2019-11-26
+f72bafdf,Black,HS11350(a),Possess Controlled Substance,01/17/1996,01/17/1996,,Sacramento,Third Striker,436.0,Drug Crimes,OCT2022,Mule Creek State Prison,36.3,30.2,2032-05-17
+e83b9315,Black,PC4502(a),Possession/Manufacture of Deadly Weapon by Prisoner,03/17/1996,03/17/1996,SC066959,Kern,Third Striker,372.0,Other Crimes,DEC2023,Salinas Valley State Prison,31.0,30.1,2027-03-17
+ac540d41,Other,PC69,Resisting/Deterring Officer w/ Threat/Violence,02/11/2000,02/11/2000,BA201144,Los Angeles,Third Striker,492.0,Crimes Against Persons,MAY2029,Wasco State Prison,41.0,26.1,2041-02-11
+bc3d78cf,Black,PC12021(a)(1),POSS F/A EX-FEL,06/29/1994,06/29/1994,94F05502,Sacramento,Third Striker,348.0,Other Crimes,FEB2019,Folsom State Prison,29.0,31.8,2023-06-29
+9303c64a,Black,HS11350(a),Possess Controlled Substance,03/28/1999,03/28/1999,BA183776,Los Angeles,Third Striker,300.0,Drug Crimes,JUL2022,San Quentin Rehabilitation Center,25.0,27.0,2024-03-28
+c64096cf,White,PC459 2nd,Burglary 2nd,08/15/1994,08/15/1994,LA018359,Los Angeles,Third Striker,300.0,Property Crimes,MAY2019,Kern Valley State Prison,25.0,31.6,2019-08-15
+90ca0442,Black,HS11351.5,Possess/Purchase Cocaine for Sale,03/16/1998,03/16/1998,BA165537,Los Angeles,Third Striker,300.0,Drug Crimes,FEB2022,California Substance Abuse Treatment Facility,25.0,28.1,2023-03-16
+000254a0,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,04/04/2000,04/04/2000,YA043814,Los Angeles,Third Striker,492.0,Crimes Against Persons,MAR2034,High Desert State Prison,41.0,26.0,2041-04-04
+2d151f87,Hispanic,PC261.5(d),Unlawful Sex V/Under 16 Subject over 21,03/01/1999,04/04/1999,,Santa Clara,Third Striker,300.0,Crimes Against Persons,FEB2022,California Health Care Facility - Stockton,25.0,27.0,2024-04-04
+6597c8ab,White,VC10851(a),Vehicle Theft,12/02/1995,12/02/1995,SC068162,Kern,Third Striker,300.0,Property Crimes,MAR2020,"California State Prison, Los Angeles County",25.0,30.3,2020-12-02
+9244d483,Mexican,PC246.3(a),Discharge Firearm with Gross Negligence,09/11/1997,09/11/1997,VA046867,Los Angeles,Third Striker,1920.0,Other Crimes,AUG2087,California Men's Colony,160.0,28.6,2157-09-11
+5a4e0c78,Black,HS11351.5,Possess/Purchase Cocaine for Sale,01/13/1996,01/13/1996,,Los Angeles,Third Striker,300.0,Drug Crimes,SEP2019,Ironwood State Prison,25.0,30.2,2021-01-13
+652e7931,Black,PC12021(a)(1),POSS F/A EX-FEL,09/04/1994,09/04/1994,5193750,Fresno,Third Striker,348.0,Other Crimes,JUL2019,Salinas Valley State Prison,29.0,31.6,2023-09-04
+c6b0b62d,White,PC459 2nd,Burglary 2nd,09/06/1996,09/06/1996,SC068588,Kern,Third Striker,324.0,Property Crimes,DEC2021,San Quentin Rehabilitation Center,27.0,29.6,2023-09-06
+53c00881,Mexican,PC4502(a),Possession/Manufacture of Deadly Weapon by Prisoner,01/18/2000,01/18/2000,,Kern,Third Striker,300.0,Other Crimes,FEB2023,RJ Donovan Correctional Facility,25.0,26.2,2025-01-18
+9f009652,White,HS11350(a),Possess Controlled Substance,10/24/2005,10/24/2005,,Stanislaus,Third Striker,300.0,Drug Crimes,NOV2023,San Quentin Rehabilitation Center,25.0,20.4,2030-10-24
+7a3dca71,Black,PC273.5(a),Corp Inj on Specif Persons Resulting in Traumatic Condition,11/27/2014,11/27/2014,RIF1502725,Riverside,Third Striker,300.0,Crimes Against Persons,JAN2033,San Quentin Rehabilitation Center,25.0,11.3,2039-11-27
+3c1df89b,Black,PC4502(a),Possession/Manufacture of Deadly Weapon by Prisoner,03/02/2007,03/02/2007,07F07012,Sacramento,Third Striker,408.0,Other Crimes,SEP2027,Correctional Training Facility,34.0,19.1,2041-03-02
+34e48326,White,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,11/21/1994,11/21/1994,GA022082,Los Angeles,Third Striker,324.0,Crimes Against Persons,AUG2019,Kern Valley State Prison,27.0,31.4,2021-11-21
+8a660e5f,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,03/09/2009,03/09/2009,CM030757,Butte,Third Striker,300.0,Crimes Against Persons,MAY2026,San Quentin Rehabilitation Center,25.0,17.1,2034-03-09
+4a5d3491,Mexican,HS11378,Possession Controlled Substance for Sale,06/02/2001,06/02/2001,SCS159981A,San Diego,Third Striker,424.0,Drug Crimes,OCT2029,Folsom State Prison,35.3,24.8,2036-10-02
+39a912ab,White,HS11379.6(a),Manufacture Controlled Substance,01/11/1996,01/11/1996,CR67330,Riverside,Third Striker,420.0,Drug Crimes,AUG2023,Mule Creek State Prison,35.0,30.2,2031-01-11
+d166978e,Black,PC220(a)(1),Assault with Intent to Commit Specific Sex Offense,11/21/2013,11/21/2013,,San Bernardino,Third Striker,540.0,Crimes Against Persons,APR2035,"California State Prison, Corcoran",45.0,12.4,2058-11-21
+b5bbb2e7,Black,PC192(b),Involuntary Manslaughter,10/29/1994,10/29/1994,179796,Santa Clara,Third Striker,420.0,Crimes Against Persons,JUL2023,"California State Prison, Solano",35.0,31.4,2029-10-29
+d9e87863,Mexican,PC12021(a)(1),POSS F/A EX-FEL,09/19/1997,09/19/1997,,Sacramento,Third Striker,300.0,Other Crimes,JUN2020,San Quentin Rehabilitation Center,25.0,28.5,2022-09-19
+983ef212,White,PC12020(a),MFG/SAL/POSS WPN,07/17/1995,07/17/1995,20357,Stanislaus,Third Striker,600.0,Other Crimes,OCT2033,California Substance Abuse Treatment Facility,50.0,30.7,2045-07-17
+ba2525ae,Mexican,HS11377(a),Possession of Controlled Substance,10/22/1997,10/22/1997,PA028494,Los Angeles,Third Striker,348.0,Drug Crimes,JUL2022,California Correctional Institution,29.0,28.5,2026-10-22
+5e771468,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,06/09/2011,06/09/2011,BA385417,Los Angeles,Second Striker,288.0,Crimes Against Persons,SEP2028,Correctional Training Facility,24.0,14.8,2035-06-09
+2c64f1dd,Black,VC10851(a),Vehicle Theft,12/25/1995,12/25/1995,NA027035,Los Angeles,Third Striker,300.0,Property Crimes,OCT2020,Mule Creek State Prison,25.0,30.3,2020-12-25
+223551e7,White,HS11377(a),Possession of Controlled Substance,06/26/1997,06/26/1997,BA152571,Los Angeles,Third Striker,300.0,Drug Crimes,SEP2021,California Health Care Facility - Stockton,25.0,28.8,2022-06-26
+96889499,Black,PC487h(a),Theft of Vehicle/Vessel,10/20/1996,10/20/1996,,Los Angeles,Third Striker,300.0,Property Crimes,JUL2021,Salinas Valley State Prison,25.0,29.5,2021-10-20
+d034b800,Black,PC12021(a)(1),POSS F/A EX-FEL,03/31/1995,03/31/1995,YA023651,Los Angeles,Third Striker,324.0,Other Crimes,SEP2019,California Substance Abuse Treatment Facility,27.0,31.0,2022-03-31
+de7b0c9e,White,HS11378,Possession Controlled Substance for Sale,03/25/1997,03/25/1997,,Kern,Third Striker,300.0,Drug Crimes,APR2020,Valley State Prison,25.0,29.0,2022-03-25
+8ffbd921,Mexican,PC666,Petty Theft With Prior,08/01/1999,08/01/1999,YA041328,Los Angeles,Third Striker,300.0,Property Crimes,JUN2022,Avenal State Prison,25.0,26.7,2024-08-01
+ecfb7298,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,08/24/1996,08/24/1996,LA025075,Los Angeles,Third Striker,300.0,Crimes Against Persons,APR2021,"California State Prison, Los Angeles County",25.0,29.6,2021-08-24
+64e6ba47,Black,PC496(a),Receiving Stolen Property,04/27/1999,07/12/1999,TA055374,Los Angeles,Third Striker,348.0,Property Crimes,MAY2023,Calipatria State Prison,29.0,26.7,2028-07-12
+2579e1ab,Black,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,06/04/1996,06/04/1996,,Los Angeles,Third Striker,388.0,Crimes Against Persons,DEC2020,California Substance Abuse Treatment Facility,32.3,29.8,2028-10-04
+716d504d,Mexican,PC12021(a)(1),POSS F/A EX-FEL,07/04/1996,07/04/1996,TA045679,Los Angeles,Third Striker,324.0,Other Crimes,FEB2023,Calipatria State Prison,27.0,29.8,2023-07-04
+dc7d951a,White,PC12021.1(a),POSS F/A BY PERS CONV SPEC OFF,05/23/1996,05/23/1996,,Sacramento,Third Striker,516.0,Other Crimes,DEC2020,Salinas Valley State Prison,43.0,29.9,2039-05-23
+a18029ec,Mexican,PC12021(a)(1),POSS F/A EX-FEL,08/17/1995,08/17/1995,5558739,Fresno,Third Striker,412.0,Other Crimes,OCT2021,Kern Valley State Prison,34.3,30.6,2029-12-17
+4c044609,Other,PC12021(a)(1),POSS F/A EX-FEL,05/28/1998,05/28/1998,NA036865,Los Angeles,Third Striker,348.0,Other Crimes,SEP2022,San Quentin Rehabilitation Center,29.0,27.9,2027-05-28
+c53f340d,White,PC666.5(a),Vehicle Theft w/ Prior Vehicle Related Theft Convictions,10/02/2007,10/02/2007,RIF139205,Riverside,Third Striker,300.0,Property Crimes,OCT2026,Centinela State Prison,25.0,18.5,2032-10-02
+a990910c,Black,PC496(a),Receiving Stolen Property,11/13/1995,11/13/1995,,Los Angeles,Third Striker,324.0,Property Crimes,APR2020,California Substance Abuse Treatment Facility,27.0,30.4,2022-11-13
+05ff33dc,Mexican,HS11370.1(a),Possession of CS While Armed w/Loaded Firearm,12/02/1994,12/02/1994,9435601,Tulare,Third Striker,300.0,Drug Crimes,SEP2019,"California State Prison, Corcoran",25.0,31.3,2019-12-02
+e3584009,Mexican,HS11352(a),Transport/Sell Controlled Substance,03/29/1994,03/29/1994,94ZF0175,Orange,Third Striker,348.0,Drug Crimes,DEC2018,High Desert State Prison,29.0,32.0,2023-03-29
+3812d870,Black,PC12021(a)(1),POSS F/A EX-FEL,02/20/1997,02/20/1997,MA013559,Los Angeles,Third Striker,300.0,Other Crimes,JAN2021,Folsom State Prison,25.0,29.1,2022-02-20
+583242e7,Black,PC666,Petty Theft With Prior,03/08/1995,03/08/1995,,Los Angeles,Third Striker,300.0,Property Crimes,AUG2019,California Substance Abuse Treatment Facility,25.0,31.1,2020-03-08
+fe3fad5c,White,PC12021(a)(1),POSS F/A EX-FEL,05/25/2000,05/25/2000,,Sacramento,Third Striker,300.0,Other Crimes,APR2022,California Medical Facility,25.0,25.9,2025-05-25
+946a4ef9,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,07/14/1994,07/14/1994,BA098584,Los Angeles,Third Striker,396.0,Crimes Against Persons,MAR2019,California Correctional Institution,33.0,31.7,2027-07-14
+0b23a8bd,Black,PC12021(a)(1),POSS F/A EX-FEL,04/01/1995,04/01/1995,GA023598,Los Angeles,Third Striker,300.0,Other Crimes,DEC2019,"California State Prison, Los Angeles County",25.0,31.0,2020-04-01
+81da0eec,Mexican,PC12021(a)(1),POSS F/A EX-FEL,08/29/1998,08/29/1998,TA051713,Los Angeles,Third Striker,336.0,Other Crimes,MAR2022,Mule Creek State Prison,28.0,27.6,2026-08-29
+f93940fd,Black,PC314(1),Indecent Exposure,09/28/2007,09/28/2007,,Kings,Third Striker,640.0,Crimes Against Persons,SEP2031,"California State Prison, Los Angeles County",53.3,18.5,2061-01-28
+f6763a88,Mexican,PC496(a),Receiving Stolen Property,02/08/1995,02/08/1995,SA020932,Los Angeles,Third Striker,300.0,Property Crimes,JUN2019,"California State Prison, Solano",25.0,31.2,2020-02-08
+277bd466,Mexican,PC245(b),Assault with Semiautomatic Firearm,07/19/1997,07/19/1997,SCN064622,San Diego,Second Striker,412.0,Crimes Against Persons,SEP2031,"California State Prison, Los Angeles County",34.3,28.7,2031-11-19
+a233a43c,Mexican,PC520,Extortion by Means of Force/Threat,09/12/2012,09/12/2012,,Los Angeles,Second Striker,264.0,Property Crimes,JAN2026,Centinela State Prison,22.0,13.6,2034-09-12
+5200ca46,Hispanic,PC12021(a)(1),POSS F/A EX-FEL,01/31/1995,01/31/1995,VF0027299,Tulare,Third Striker,300.0,Other Crimes,NOV2018,Sacramento Control Office,25.0,31.2,2020-01-31
+cbc23169,Mexican,HS11352(a),Transport/Sell Controlled Substance,11/22/1996,11/22/1996,LA025826,Los Angeles,Third Striker,336.0,Drug Crimes,JAN2022,Folsom State Prison,28.0,29.4,2024-11-22
+3b7a554f,Other,VC10851(a),Vehicle Theft,08/24/2013,08/24/2013,,Fresno,Third Striker,300.0,Property Crimes,SEP2027,California Substance Abuse Treatment Facility,25.0,12.6,2038-08-24
+ac02027d,Black,PC12021(a)(1),POSS F/A EX-FEL,08/14/2002,08/14/2002,RIF111066,Riverside,Third Striker,616.0,Other Crimes,JAN2039,"California State Prison, Sacramento",51.3,23.6,2053-12-14
+450f1b5e,Black,PC236.1(c)(2),"Human Trafficking V/Minor w/Force/Fear/Fraud/Deceit/Vio, etc",05/01/2013,11/01/2013,,Santa Barbara,Life with Parole,432.0,Other Crimes,DEC2038,California Substance Abuse Treatment Facility,36.0,12.4,2049-11-01
+a30e3f8f,Black,,,,,,,Other,,,,North Kern State Prison,,,
+226c8977,Black,PC245(b),Assault with Semiautomatic Firearm,11/02/2009,11/02/2009,RIF153699,Riverside,Second Striker,432.0,Crimes Against Persons,OCT2035,Valley State Prison,36.0,16.4,2045-11-02
+dd3c89c7,Hispanic,PC273.5(f)(1),Corp Inj on Spec Person W/In 7 yrs of Prior Spec Conviction,03/01/2015,03/01/2015,15CMS1427,Kings,Second Striker,240.0,Crimes Against Persons,JUL2030,California Substance Abuse Treatment Facility,20.0,11.1,2035-03-01
+7a74838b,White,HS11360(a),Transport/Sale of Marijuana,04/24/2012,04/24/2012,,Shasta,Third Striker,316.0,Drug Crimes,DEC2028,"California State Prison, Los Angeles County",26.3,13.9,2038-08-24
+f411670a,Hispanic,PC246.3(a),Discharge Firearm with Gross Negligence,02/09/2012,02/09/2012,SCN302587,San Diego,Third Striker,372.0,Other Crimes,MAY2029,"California State Prison, Los Angeles County",31.0,14.1,2043-02-09
+48355bf8,Mexican,,,,,,,Other,,,,North Kern State Prison,,,
+3d5cbd32,Mexican,PC191.5(d),Manslaughter by Motor Vehicle/DUI with Priors,04/08/2005,04/08/2005,VCF144402,Tulare,Life with Parole,252.0,Crimes Against Persons,OCT2021,RJ Donovan Correctional Facility,21.0,21.0,2026-04-08
+4520705f,White,PC245(b),Assault with Semiautomatic Firearm,06/26/2006,06/26/2006,CM028752,Butte,Second Striker,356.0,Crimes Against Persons,NOV2030,"California State Prison, Los Angeles County",29.7,19.8,2036-02-26
+defefac7,Black,HS11378,Possession Controlled Substance for Sale,12/17/2005,12/17/2005,FMB008031,San Bernardino,Third Striker,624.0,Drug Crimes,JAN2038,"California State Prison, Corcoran",52.0,20.3,2057-12-17
+6d5fd042,Hispanic,PC245(b),Assault with Semiautomatic Firearm,02/04/2012,02/04/2012,SCN301954,San Diego,Second Striker,288.0,Crimes Against Persons,JAN2031,Mule Creek State Prison,24.0,14.2,2036-02-04
+a4f8757c,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+af4a5fb0,Black,PC273a(a),Abuse/Endanger Health of Child,04/18/2011,04/18/2011,12F01204,Sacramento,Second Striker,324.0,Crimes Against Persons,NOV2031,High Desert State Prison,27.0,15.0,2038-04-18
+2cfd80a7,Hispanic,HS11378.5,Possession PCP for Sale,12/18/2009,12/18/2009,BA366018,Los Angeles,Second Striker,288.0,Drug Crimes,NOV2028,California Substance Abuse Treatment Facility,24.0,16.3,2033-12-18
+1d054595,Hispanic,VC2800.3(b),Evading Peace Officer Causing Death,07/13/2010,07/13/2010,C1082264,Santa Clara,DSL,260.0,Crimes Against Persons,APR2028,Mule Creek State Prison,21.7,15.7,2032-03-13
+84a6ed26,White,PC626.9(d),Attempt to Possess or Discharge a Firearm in a School Zone,09/28/2007,09/28/2007,,Butte,DSL,308.0,Other Crimes,JUN2025,Mule Creek State Prison,25.7,18.5,2033-05-28
+4e0e4d5f,Mexican,HS11379(b),Transport for Sale CS to Non Contiguous County,02/19/2011,02/22/2011,C1114369,Santa Clara,DSL,360.0,Drug Crimes,OCT2033,Mule Creek State Prison,30.0,15.1,2041-02-22
+efa3f9bd,Hispanic,PC245(b),Assault with Semiautomatic Firearm,01/20/2007,01/20/2007,,Los Angeles,DSL,292.0,Crimes Against Persons,JUN2025,Folsom State Prison,24.3,19.2,2031-05-20
+7b366e9b,White,CC25401,SALE SEC MISREP,10/16/1996,01/01/1999,RIF117775A,Riverside,DSL,856.0,Property Crimes,OCT2067,California Institution for Men,71.3,27.3,2070-05-01
+fc971c63,Mexican,,,,,,,Other,,,,Wasco State Prison,,,
+c08d86a0,Hispanic,PC245(b),Assault with Semiautomatic Firearm,03/25/2008,03/25/2008,NA078198,Los Angeles,DSL,312.0,Crimes Against Persons,OCT2028,Calipatria State Prison,26.0,18.0,2034-03-25
+ebfee089,Black,PC245(b),Assault with Semiautomatic Firearm,10/23/2015,10/23/2015,15F06951,Sacramento,Second Striker,372.0,Crimes Against Persons,AUG2037,California Correctional Institution,31.0,10.4,2046-10-23
+aa077420,Mexican,,,,,,,Other,,,,Wasco State Prison,,,
+677f4be6,Black,,,,,,,Other,,,,Wasco State Prison,,,
+3423d66f,Black,,,,,,,Other,,,,North Kern State Prison,,,
+74f4b86f,Black,PC245(b),Assault with Semiautomatic Firearm,08/12/2007,08/12/2007,LA056623,Los Angeles,Second Striker,276.0,Crimes Against Persons,JAN2027,Wasco State Prison,23.0,18.6,2030-08-12
+668c65f4,Hispanic,PC245(b),Assault with Semiautomatic Firearm,04/16/2008,04/16/2008,BA339301,Los Angeles,Second Striker,328.0,Crimes Against Persons,OCT2032,Kern Valley State Prison,27.3,18.0,2035-08-16
+c3cf5271,Mexican,,,,,,,Other,,,,North Kern State Prison,,,
+8eccbf28,Mexican,PC12021(a)(1),POSS F/A EX-FEL,01/26/1996,01/26/1996,,Orange,Third Striker,300.0,Other Crimes,OCT2020,Centinela State Prison,25.0,30.2,2021-01-26
+bc234424,Black,PC12021(a)(1),POSS F/A EX-FEL,02/26/2002,02/26/2002,YA051146,Los Angeles,Third Striker,300.0,Other Crimes,MAR2023,Calipatria State Prison,25.0,24.1,2027-02-26
+6a64018f,Black,PC12021(a)(1),POSS F/A EX-FEL,03/31/1995,03/31/1995,NA024145,Los Angeles,Third Striker,300.0,Other Crimes,DEC2019,"California State Prison, Solano",25.0,31.0,2020-03-31
+80974c17,Black,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,05/27/1995,05/27/1995,NA024609,Los Angeles,Third Striker,348.0,Crimes Against Persons,JAN2020,"California State Prison, Corcoran",29.0,30.9,2024-05-27
+59bd6365,Mexican,VC10851(a),Vehicle Theft,04/08/2001,04/08/2001,FWV022553,San Bernardino,Third Striker,300.0,Property Crimes,AUG2022,RJ Donovan Correctional Facility,25.0,25.0,2026-04-08
+e450911e,Black,PC12021.1(a),POSS F/A BY PERS CONV SPEC OFF,01/16/2006,01/16/2006,CC617275,Santa Clara,Third Striker,624.0,Other Crimes,SEP2038,"California State Prison, Solano",52.0,20.2,2058-01-16
+babb99d5,Black,PC4502(a),Possession/Manufacture of Deadly Weapon by Prisoner,01/30/2011,01/30/2011,SS111435,Monterey,Third Striker,396.0,Other Crimes,OCT2028,Calipatria State Prison,33.0,15.2,2044-01-30
+b065a53e,Mexican,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,09/03/1997,09/03/1997,97CF2677,Orange,Third Striker,300.0,Crimes Against Persons,OCT2020,Ironwood State Prison,25.0,28.6,2022-09-03
+db1f496f,Black,HS11351.5,Possess/Purchase Cocaine for Sale,08/29/2002,08/29/2002,RIF105475,Riverside,Third Striker,348.0,Drug Crimes,OCT2024,Correctional Training Facility,29.0,23.6,2031-08-29
+ee3bb5fe,Mexican,,,,,,,Other,,,,North Kern State Prison,,,
+c825aafa,Black,PC12021(a)(1),POSS F/A EX-FEL,07/30/1994,07/30/1994,94F06354,Sacramento,Third Striker,600.0,Other Crimes,JAN2033,California Medical Facility,50.0,31.7,2044-07-30
+f37dae61,Black,PC273.5(a),Corp Inj on Specif Persons Resulting in Traumatic Condition,02/18/2015,02/18/2015,RIF1500859,Riverside,Third Striker,456.0,Crimes Against Persons,OCT2035,Kern Valley State Prison,38.0,11.1,2053-02-18
+c9b6c5f3,Hispanic,PC487(a),Grand Theft Exceeding $400,04/13/2005,04/13/2005,FVA025450,San Bernardino,Third Striker,300.0,Property Crimes,JAN2025,Avenal State Prison,25.0,21.0,2030-04-13
+2712da81,Mexican,PC12021(a)(1),POSS F/A EX-FEL,01/08/2001,01/08/2001,KA051066,Los Angeles,Third Striker,300.0,Other Crimes,JUL2024,Calipatria State Prison,25.0,25.2,2026-01-08
+7dece646,American Indian,PC12021(a)(1),POSS F/A EX-FEL,03/18/1999,03/18/1999,SCN095277,San Diego,Third Striker,300.0,Other Crimes,JAN2024,California Medical Facility,25.0,27.1,2024-03-18
+d74fe9db,Mexican,HS11379(a),Transport/Import Controlled Substance,03/21/1998,03/21/1998,,Santa Clara,Third Striker,300.0,Drug Crimes,MAY2023,Mule Creek State Prison,25.0,28.0,2023-03-21
+6a32391b,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,06/10/2004,06/10/2004,,Sacramento,Third Striker,404.0,Crimes Against Persons,FEB2029,California Men's Colony,33.7,21.8,2038-02-10
+88364c6c,Black,PC314(1),Indecent Exposure,05/01/2003,05/01/2003,,Del Norte,DSL,324.0,Crimes Against Persons,FEB2026,Pelican Bay State Prison,27.0,22.9,2030-05-01
+768444ef,Black,PC487(a),Grand Theft Exceeding $400,08/24/1998,08/24/1998,,Los Angeles,Third Striker,348.0,Property Crimes,MAY2025,Salinas Valley State Prison,29.0,27.6,2027-08-24
+59e3ea6d,Black,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,12/29/2009,12/29/2009,09F09412A,Sacramento,Third Striker,308.0,Crimes Against Persons,JUL2028,"California State Prison, Solano",25.7,16.3,2035-08-29
+8e9cca52,Black,PC12021(a)(1),POSS F/A EX-FEL,09/03/1997,09/03/1997,RIF076640,Riverside,Third Striker,348.0,Other Crimes,MAR2022,"California State Prison, Los Angeles County",29.0,28.6,2026-09-03
+6ce2a240,Black,PC12316(b)(3),POSS AMMO BY EX FELON,01/24/2001,01/24/2001,NA047666,Los Angeles,Third Striker,300.0,Other Crimes,APR2023,"California State Prison, Solano",25.0,25.2,2026-01-24
+ea5329ba,Hispanic,PC245(b),Assault with Semiautomatic Firearm,04/27/2012,04/27/2012,PA073738,Los Angeles,Second Striker,324.0,Crimes Against Persons,APR2032,Calipatria State Prison,27.0,13.9,2039-04-27
+27cb2c40,White,PC245(b),Assault with Semiautomatic Firearm,12/29/2012,12/29/2012,CM037913,Butte,DSL,248.0,Crimes Against Persons,OCT2028,Mule Creek State Prison,20.7,13.3,2033-08-29
+fe92992a,Hispanic,PC245(b),Assault with Semiautomatic Firearm,01/23/2013,01/23/2013,F13901075,Fresno,Second Striker,324.0,Crimes Against Persons,DEC2031,Calipatria State Prison,27.0,13.2,2040-01-23
+28c038a3,Mexican,HS11379(a),Transport/Import Controlled Substance,05/01/2014,05/01/2014,MA064702,Los Angeles,Second Striker,348.0,Drug Crimes,DEC2027,RJ Donovan Correctional Facility,29.0,11.9,2043-05-01
+76370c1c,White,PC12303,POSS DEST DEVICE,02/22/2011,02/22/2011,CR1116554,Mendocino,Third Striker,300.0,Other Crimes,AUG2027,Pelican Bay State Prison,25.0,15.1,2036-02-22
+879ee0ce,Black,PC245(b),Assault with Semiautomatic Firearm,05/19/2005,05/19/2005,BA306194,Los Angeles,Second Striker,480.0,Crimes Against Persons,JAN2037,Kern Valley State Prison,40.0,20.9,2045-05-19
+0a7444c7,Black,PC12021(a)(1),POSS F/A EX-FEL,02/28/2002,02/28/2002,YA051163,Los Angeles,Third Striker,436.0,Other Crimes,DEC2023,Kern Valley State Prison,36.3,24.1,2038-06-28
+6d2c052a,Mexican,PC12021(a)(1),POSS F/A EX-FEL,01/26/1998,01/26/1998,KA039175,Los Angeles,Third Striker,348.0,Other Crimes,DEC2022,Mule Creek State Prison,29.0,28.2,2027-01-26
+9fbb1482,Mexican,PC245(b),Assault with Semiautomatic Firearm,08/23/2014,08/23/2014,BA428669,Los Angeles,Third Striker,468.0,Crimes Against Persons,JUN2043,Centinela State Prison,39.0,11.6,2053-08-23
+b3f5099a,Black,HS11352(a),Transport/Sell Controlled Substance,08/30/1997,08/30/1997,PEF06350,Riverside,Third Striker,300.0,Drug Crimes,OCT2021,Centinela State Prison,25.0,28.6,2022-08-30
+5854bf71,White,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,12/03/2008,12/03/2008,CC827450,Santa Clara,Third Striker,332.0,Crimes Against Persons,APR2027,North Kern State Prison,27.7,17.3,2036-08-03
+4036e8c0,Mexican,PC4502(a),Possession/Manufacture of Deadly Weapon by Prisoner,11/25/1999,11/25/1999,99F09653,Sacramento,Third Striker,396.0,Other Crimes,JAN2027,Calipatria State Prison,33.0,26.4,2032-11-25
+93bbcba4,Hispanic,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,04/05/2008,04/05/2008,08CF1081,Orange,Third Striker,300.0,Crimes Against Persons,SEP2025,North Kern State Prison,25.0,18.0,2033-04-05
+bb9a6ff6,Mexican,PC487(a),Grand Theft Exceeding $400,04/02/1998,04/02/1998,PA030025,Los Angeles,Third Striker,600.0,Property Crimes,AUG2035,Kern Valley State Prison,50.0,28.0,2048-04-02
+1b2f1778,Mexican,PC12021(a)(1),POSS F/A EX-FEL,02/10/2005,02/10/2005,FCH07061,San Bernardino,Third Striker,300.0,Other Crimes,OCT2025,"California State Prison, Sacramento",25.0,21.1,2030-02-10
+51570104,Black,HS11351.5,Possess/Purchase Cocaine for Sale,08/12/1999,08/12/1999,FSB023644,San Bernardino,Third Striker,300.0,Drug Crimes,OCT2021,San Quentin Rehabilitation Center,25.0,26.6,2024-08-12
+f7fca5af,Hispanic,PC12021(a)(1),POSS F/A EX-FEL,10/22/2010,10/22/2010,INF10002307,Riverside,Third Striker,300.0,Other Crimes,JUL2027,Correctional Training Facility,25.0,15.4,2035-10-22
+e559ace5,Hispanic,HS11378,Possession Controlled Substance for Sale,06/06/2014,06/06/2014,INF1501824,Riverside,DSL,240.0,Drug Crimes,JUL2028,California Medical Facility,20.0,11.8,2034-06-06
+3745d287,Mexican,PC245(b),Assault with Semiautomatic Firearm,11/28/1999,11/28/1999,SC111796,Marin,Second Striker,432.0,Crimes Against Persons,DEC2029,Salinas Valley State Prison,36.0,26.4,2035-11-28
+64869861,White,PC646.9(a),Stalking,06/29/1997,06/29/1997,BA109565,Los Angeles,Third Striker,300.0,Other Crimes,OCT2020,California Health Care Facility - Stockton,25.0,28.8,2022-06-29
+5719fd99,Black,PC207(d),Kidnap Out of State,05/21/2013,05/21/2013,FVI1301449,San Bernardino,Third Striker,300.0,Crimes Against Persons,OCT2031,Correctional Training Facility,25.0,12.9,2038-05-21
+efea1e46,White,PC653f(b),Solicit Another to Commit/Join in Commission of Murder,06/23/1999,06/23/1999,99F03948B,Sacramento,Third Striker,400.0,Crimes Against Persons,FEB2025,High Desert State Prison,33.3,26.8,2032-10-23
+a0e60514,Black,PC4501.1(a),Aggravated Battery on Peace Officer by Gassing,11/09/2000,11/09/2000,,Kern,Third Striker,664.0,Crimes Against Persons,NOV2041,Mule Creek State Prison,55.3,25.4,2056-03-09
+e9fec069,White,VC23153(a),DUI/Bodily Injury/Death,09/19/2008,09/19/2008,SWF026666,Riverside,Third Striker,300.0,Other Crimes,MAY2028,Avenal State Prison,25.0,17.5,2033-09-19
+45ef8f39,White,,,,,,,Other,,,,North Kern State Prison,,,
+ca3d1f6e,Black,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,03/15/2008,03/15/2008,MF008365,Kern,Second Striker,248.0,Crimes Against Persons,DEC2025,High Desert State Prison,20.7,18.1,2028-11-15
+29a29c3a,Mexican,PC12021(a)(1),POSS F/A EX-FEL,09/22/2002,09/22/2002,FSB036237,San Bernardino,Third Striker,316.0,Other Crimes,SEP2023,High Desert State Prison,26.3,23.5,2029-01-22
+b08da8ff,Hispanic,PC12021(a)(1),POSS F/A EX-FEL,12/17/2008,12/17/2008,VCF241795,Tulare,Third Striker,336.0,Other Crimes,MAR2025,"California State Prison, Solano",28.0,17.3,2036-12-17
+7c9eb66a,Black,PC12021(a)(1),POSS F/A EX-FEL,03/19/2003,03/19/2003,03F02471,Sacramento,Third Striker,464.0,Other Crimes,OCT2025,Folsom State Prison,38.7,23.0,2041-11-19
+24201170,White,PC12021(a)(1),POSS F/A EX-FEL,09/26/1996,09/26/1996,SCR2471,Placer,Third Striker,300.0,Other Crimes,NOV2020,California Health Care Facility - Stockton,25.0,29.5,2021-09-26
+dd656fbe,Mexican,PC12021(a)(1),POSS F/A EX-FEL,03/20/2001,03/20/2001,SS010877,Monterey,Third Striker,360.0,Other Crimes,APR2026,Salinas Valley State Prison,30.0,25.0,2031-03-20
+1b8dca72,Black,VC2800.3,EVADE P/O CAUSING BOD INJ/DEATH,05/20/1998,05/20/1998,NA036778A,Los Angeles,Third Striker,612.0,Crimes Against Persons,AUG2033,California Health Care Facility - Stockton,51.0,27.9,2049-05-20
+e1eb6eaa,Black,PC245(b),Assault with Semiautomatic Firearm,08/06/2011,08/06/2011,168688,Alameda,DSL,252.0,Crimes Against Persons,OCT2027,High Desert State Prison,21.0,14.7,2032-08-06
+4926f656,Mexican,VC2800.2(a),Evade or Att to Evade Peace Officer while Driving Recklessly,06/30/2000,06/30/2000,KA049022,Los Angeles,Third Striker,300.0,Crimes Against Persons,JUN2023,Correctional Training Facility,25.0,25.8,2025-06-30
+f16c8457,Black,PC12021(a)(1),POSS F/A EX-FEL,10/02/2003,10/02/2003,,Orange,Third Striker,300.0,Other Crimes,MAR2024,Pelican Bay State Prison,25.0,22.5,2028-10-02
+1ec9bc49,Mexican,PC220(a)(2),Assault with Intent to Commit Sex Offense Victim/Minor,12/29/2014,12/29/2014,,San Luis Obispo,Second Striker,276.0,Crimes Against Persons,APR2030,San Quentin Rehabilitation Center,23.0,11.3,2037-12-29
+05bab529,White,,,,,,,Other,,,,North Kern State Prison,,,
+77325df1,White,PC12021(a)(1),POSS F/A EX-FEL,09/03/2006,09/03/2006,06F7071,Shasta,Third Striker,900.0,Other Crimes,JUL2050,"California State Prison, Los Angeles County",75.0,19.6,2081-09-03
+330ff6e0,White,PC368(b)(1),Injury to Elder Causing Death/GBI,08/17/2014,08/17/2014,CRF44965,Tuolumne,Third Striker,300.0,Crimes Against Persons,AUG2032,Mule Creek State Prison,25.0,11.6,2039-08-17
+2158c041,Black,PC4501.5,Battery on Non Prisoner,09/20/2008,09/20/2008,09F01893,Sacramento,Third Striker,828.0,Crimes Against Persons,FEB2048,California Medical Facility,69.0,17.5,2077-09-20
+6fc47bb4,Black,VC20001(b)(1),Hit and Run Causing Injury of Person other than Self,12/09/2002,12/09/2002,YA053776,Los Angeles,Third Striker,600.0,Other Crimes,DEC2040,Wasco State Prison,50.0,23.3,2052-12-09
+9e29e829,Mexican,HS11378,Possession Controlled Substance for Sale,11/09/2012,11/09/2012,MA057939,Los Angeles,Third Striker,336.0,Drug Crimes,FEB2030,"California State Prison, Corcoran",28.0,13.4,2040-11-09
+77435e93,Black,PC12020(a),MFG/SAL/POSS WPN,09/22/2004,09/22/2004,,San Bernardino,Third Striker,420.0,Other Crimes,JUN2031,California Substance Abuse Treatment Facility,35.0,21.5,2039-09-22
+8de79a55,Black,,,,,,,Other,,,,Wasco State Prison,,,
+3b359494,Vietnamese,PC118a,False Affidavit,11/15/2012,11/15/2012,C1356021,Santa Clara,DSL,380.0,Property Crimes,JAN2030,Centinela State Prison,31.7,13.4,2044-07-15
+52d60585,Black,PC653f(b),Solicit Another to Commit/Join in Commission of Murder,05/30/2001,05/30/2001,,Santa Clara,Third Striker,300.0,Crimes Against Persons,MAY2021,Mule Creek State Prison,25.0,24.8,2026-05-30
+61f7c06a,Black,PC245(a)(3),Assault with a Machine Gun,10/13/2001,10/13/2001,,Kern,Second Striker,432.0,Crimes Against Persons,OCT2026,"California State Prison, Los Angeles County",36.0,24.5,2037-10-13
+7cf29f5c,White,PC459 2nd,Burglary 2nd,04/15/1998,04/15/1998,,Yolo,Third Striker,300.0,Property Crimes,MAR2021,Valley State Prison,25.0,28.0,2023-04-15
+c851bd60,Mexican,PC191.5(d),Manslaughter by Motor Vehicle/DUI with Priors,06/29/1998,06/29/1998,6164602,Fresno,Life with Parole,288.0,Crimes Against Persons,OCT2012,North Kern State Prison,24.0,27.8,2022-06-29
+bbceba0c,Mexican,PC245(b),Assault with Semiautomatic Firearm,11/15/2012,11/15/2012,LA072598,Los Angeles,Second Striker,240.0,Crimes Against Persons,FEB2027,Centinela State Prison,20.0,13.4,2032-11-15
+300aa032,Black,HS11352(a),Transport/Sell Controlled Substance,11/03/2000,11/03/2000,00F09247,Sacramento,Third Striker,348.0,Drug Crimes,DEC2022,"California State Prison, Sacramento",29.0,25.4,2029-11-03
+bc114f00,White,PC459 2nd,Burglary 2nd,11/30/1996,11/30/1996,,San Diego,Third Striker,364.0,Property Crimes,JAN2023,Mule Creek State Prison,30.3,29.3,2027-03-30
+538cdc30,White,HS11370.1(a),Possession of CS While Armed w/Loaded Firearm,01/16/2014,01/16/2014,SCR644014,Sonoma,Second Striker,312.0,Drug Crimes,OCT2025,Sierra Conservation Center,26.0,12.2,2040-01-16
+f466d269,Mexican,,,,,,,Other,,,,North Kern State Prison,,,
+72947973,Mexican,PC4502(a),Possession/Manufacture of Deadly Weapon by Prisoner,09/29/2013,09/29/2013,SCD251966,San Diego,Third Striker,348.0,Other Crimes,AUG2030,Ironwood State Prison,29.0,12.5,2042-09-29
+d5752383,Hispanic,PC245(b),Assault with Semiautomatic Firearm,03/31/2010,03/31/2010,SCS239068,San Diego,Second Striker,270.0,Crimes Against Persons,MAY2031,Kern Valley State Prison,22.5,16.0,2032-09-30
+bcf18a4a,Black,PC476a,NSF Check,08/11/1998,01/28/1999,99CRF0145,El Dorado,Third Striker,300.0,Property Crimes,MAY2021,Mule Creek State Prison,25.0,27.2,2024-01-28
+9bc99a8c,Black,PC30600(a),Manuf/Dist/Sell/Trans Assault Weapon/.50,07/28/2015,07/28/2015,CRF156998,Yolo,Second Striker,568.0,Other Crimes,JUN2040,California Substance Abuse Treatment Facility,47.3,10.7,2062-11-28
+f3697de5,Other,PC653f(b),Solicit Another to Commit/Join in Commission of Murder,08/22/2000,08/22/2000,,Santa Barbara,Third Striker,300.0,Crimes Against Persons,JAN2022,California Institution for Men,25.0,25.6,2025-08-22
+73845797,White,PC245(b),Assault with Semiautomatic Firearm,01/15/2012,01/15/2012,LA069917,Los Angeles,Second Striker,312.0,Crimes Against Persons,FEB2031,Sierra Conservation Center,26.0,14.2,2038-01-15
+7c549c89,Mexican,PC245(b),Assault with Semiautomatic Firearm,12/17/2009,12/17/2009,,Fresno,Second Striker,240.0,Crimes Against Persons,JAN2026,Kern Valley State Prison,20.0,16.3,2029-12-17
+92c65f2b,Mexican,PC12031(a),Carry Loaded Firearm,02/09/2001,02/09/2001,BA216377,Los Angeles,Third Striker,336.0,Other Crimes,JUL2026,"California State Prison, Sacramento",28.0,25.2,2029-02-09
+34b8ac4e,Mexican,PC273.5(a),Corp Inj on Specif Persons Resulting in Traumatic Condition,04/26/2015,04/26/2015,YA092819,Los Angeles,Second Striker,240.0,Crimes Against Persons,JAN2030,Centinela State Prison,20.0,10.9,2035-04-26
+a9486527,Hispanic,HS11352(a),Transport/Sell Controlled Substance,11/10/2011,11/10/2011,KA096105,Los Angeles,Second Striker,296.0,Drug Crimes,MAY2027,Centinela State Prison,24.7,14.4,2036-07-10
+9491a251,Black,PC245(b),Assault with Semiautomatic Firearm,12/03/2000,12/03/2000,,Los Angeles,Third Striker,480.0,Crimes Against Persons,AUG2031,Correctional Training Facility,40.0,25.3,2040-12-03
+925bca9e,Black,VC23153(a),DUI/Bodily Injury/Death,08/17/2009,08/17/2009,SWF029110,Riverside,Third Striker,324.0,Other Crimes,DEC2029,Mule Creek State Prison,27.0,16.6,2036-08-17
+ca9a1a0a,Black,PC12021(a)(1),POSS F/A EX-FEL,10/31/2003,10/31/2003,03NF3450,Orange,Third Striker,392.0,Other Crimes,APR2028,Kern Valley State Prison,32.7,22.4,2036-06-30
+5c0204b2,Black,,,,,,,Other,,,,Wasco State Prison,,,
+6c46f8c2,Japanese,,,,,,,Other,,,APR2025,Valley State Prison,,,
+711e02ce,Mexican,PC245(a)(3),Assault with a Machine Gun,04/29/2000,04/29/2000,BA240074,Los Angeles,DSL,416.0,Crimes Against Persons,MAY2025,San Quentin Rehabilitation Center,34.7,25.9,2034-12-29
+ca9d1284,Hispanic,HS11352(a),Transport/Sell Controlled Substance,03/25/2014,04/01/2014,MA069313,Los Angeles,Second Striker,240.0,Drug Crimes,NOV2026,Centinela State Prison,20.0,12.0,2034-04-01
+6a1a4fae,Hispanic,PC273a(a),Abuse/Endanger Health of Child,07/29/2014,07/29/2014,F14907189,Fresno,Second Striker,252.0,Crimes Against Persons,AUG2029,Mule Creek State Prison,21.0,11.7,2035-07-29
+8de3896e,Hispanic,VC23153(a),DUI/Bodily Injury/Death,05/07/2013,05/07/2013,BA411045,Los Angeles,Second Striker,256.0,Other Crimes,MAY2026,Sierra Conservation Center - Eel River Camp,21.3,12.9,2034-09-07
+1f40bd34,American Indian,PC4502(a),Possession/Manufacture of Deadly Weapon by Prisoner,06/26/2010,06/26/2010,,San Diego,Third Striker,300.0,Other Crimes,SEP2027,RJ Donovan Correctional Facility,25.0,15.8,2035-06-26
+a9703ed4,Hispanic,PC245(b),Assault with Semiautomatic Firearm,07/21/2013,07/21/2013,CRF132857,Yolo,Second Striker,336.0,Crimes Against Persons,MAR2034,Mule Creek State Prison,28.0,12.7,2041-07-21
+c7cffb81,White,,,,,,,Other,,,,Wasco State Prison,,,
+52784b60,Mexican,PC245(b),Assault with Semiautomatic Firearm,04/09/2003,04/09/2003,VA076843,Los Angeles,Second Striker,684.0,Crimes Against Persons,OCT2045,Centinela State Prison,57.0,23.0,2060-04-09
+59a05e77,Hispanic,PC520,Extortion by Means of Force/Threat,07/31/2009,07/31/2009,BA360224,Los Angeles,Life with Parole,396.0,Property Crimes,OCT2033,Centinela State Prison,33.0,16.7,2042-07-31
+6818fa98,Mexican,HS11370.1(a),Possession of CS While Armed w/Loaded Firearm,06/25/2012,06/25/2012,F12904643,Fresno,Second Striker,260.0,Drug Crimes,APR2027,Kern Valley State Prison,21.7,13.8,2034-02-25
+9279a136,Mexican,PC12021(a)(1),POSS F/A EX-FEL,07/24/2009,07/24/2009,SF112457A,San Joaquin,Third Striker,300.0,Other Crimes,FEB2028,Salinas Valley State Prison,25.0,16.7,2034-07-24
+2d09fc96,White,PC12021(a)(1),POSS F/A EX-FEL,10/23/2002,10/23/2002,SCD170667,San Diego,Third Striker,300.0,Other Crimes,SEP2023,Avenal State Prison,25.0,23.4,2027-10-23
+3912771b,Mexican,PC245(b),Assault with Semiautomatic Firearm,10/26/2003,10/26/2003,1109094,Santa Barbara,Third Striker,408.0,Crimes Against Persons,MAR2030,"California State Prison, Corcoran",34.0,22.4,2037-10-26
+fe1c3953,Black,PC245(b),Assault with Semiautomatic Firearm,01/01/2005,01/01/2005,,Kings,DSL,304.0,Crimes Against Persons,JUL2026,Kern Valley State Prison,25.3,21.3,2030-05-01
+e101a511,Black,PC245(b),Assault with Semiautomatic Firearm,09/15/2007,09/15/2007,NA075834,Los Angeles,Third Striker,360.0,Crimes Against Persons,JUN2028,California Institution for Men,30.0,18.6,2037-09-15
+45d95dc8,Mexican,PC273.5(a),Inflict Corporal Injury on Spouse/Cohabitant,12/31/2006,12/31/2006,PA058054,Los Angeles,Third Striker,300.0,Crimes Against Persons,JUL2026,Mule Creek State Prison,25.0,19.3,2031-12-31
+87e5c8ed,Black,VC23153(a),DUI/Bodily Injury/Death,04/18/2010,04/18/2010,BA384297,Los Angeles,Second Striker,264.0,Other Crimes,OCT2026,Sacramento Control Office,22.0,16.0,2032-04-18
+421649c5,Hispanic,PC245(b),Assault with Semiautomatic Firearm,05/20/2012,05/20/2012,LA071024,Los Angeles,Second Striker,240.0,Crimes Against Persons,MAR2030,Pelican Bay State Prison,20.0,13.9,2032-05-20
+d45e709a,Black,PC245(b),Assault with Semiautomatic Firearm,01/10/2015,01/10/2015,F15906108,Fresno,DSL,240.0,Crimes Against Persons,MAR2030,High Desert State Prison,20.0,11.2,2035-01-10
+e10bf5cc,Other,PC192(c)(1),Vehicular Manslaughter With Gross Negligence,10/20/2012,10/20/2012,VA127109,Los Angeles,Second Striker,276.0,Crimes Against Persons,SEP2026,Kern Valley State Prison,23.0,13.4,2035-10-20
+c90099f3,Hispanic,PC245(b),Assault with Semiautomatic Firearm,02/21/2010,02/21/2010,RIF10000863,Riverside,DSL,240.0,Crimes Against Persons,FEB2026,State Hospitals,20.0,16.1,2030-02-21
+44e14c8b,Black,PC245(b),Assault with Semiautomatic Firearm,07/10/2012,07/10/2012,F12905050,Fresno,DSL,288.0,Crimes Against Persons,AUG2031,California Medical Facility,24.0,13.7,2036-07-10
+94101c88,Black,PC245(b),Assault with Semiautomatic Firearm,03/05/2010,03/05/2010,168635,Alameda,DSL,240.0,Crimes Against Persons,FEB2026,San Quentin Rehabilitation Center,20.0,16.1,2030-03-05
+2683239c,White,PC273a(a),Abuse/Endanger Health of Child,09/11/2011,09/11/2011,FVI1102130,San Bernardino,DSL,240.0,Crimes Against Persons,DEC2026,"California State Prison, Corcoran",20.0,14.6,2031-09-11
+62e962f2,Filipino,CC25401,SALE SEC MISREP,06/20/2006,06/20/2006,RIF153306,Riverside,DSL,980.0,Property Crimes,SEP2051,California Institution for Men,81.7,19.8,2088-02-20
+d5bd063f,Other,PC245(b),Assault with Semiautomatic Firearm,04/04/2012,04/04/2012,SCD242421,San Diego,DSL,292.0,Crimes Against Persons,JUL2030,RJ Donovan Correctional Facility,24.3,14.0,2036-08-04
+8bff08ba,Black,PC245(b),Assault with Semiautomatic Firearm,04/18/2013,04/18/2013,,Sacramento,Second Striker,272.0,Crimes Against Persons,MAY2031,Calipatria State Prison,22.7,13.0,2035-12-18
+481a8cde,Hispanic,PC245(b),Assault with Semiautomatic Firearm,10/25/2012,10/25/2012,,Los Angeles,DSL,384.0,Crimes Against Persons,MAY2037,Kern Valley State Prison,32.0,13.4,2044-10-25
+f269b06e,Hispanic,PC245(b),Assault with Semiautomatic Firearm,06/06/2011,06/06/2011,BF137124,Kern,DSL,356.0,Crimes Against Persons,JAN2033,California Institution for Men,29.7,14.8,2041-02-06
+41320327,Hispanic,PC245(b),Assault with Semiautomatic Firearm,06/06/2011,06/06/2011,,Kern,DSL,356.0,Crimes Against Persons,JUL2032,Folsom State Prison,29.7,14.8,2041-02-06
+9e7b5cd5,Hispanic,PC368(b)(1),Injury to Elder Causing Death/GBI,12/23/2014,12/23/2014,KA108663,Los Angeles,Second Striker,264.0,Crimes Against Persons,MAR2029,California Substance Abuse Treatment Facility,22.0,11.3,2036-12-23
+60698cfa,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+4157281c,Other,,,,,,,Other,,,,North Kern State Prison,,,
+54d4aed0,Hispanic,PC220(a)(2),Assault with Intent to Commit Sex Offense Victim/Minor,08/16/2012,08/16/2012,,Los Angeles,DSL,240.0,Crimes Against Persons,JAN2028,Avenal State Prison,20.0,13.6,2032-08-16
+180718d8,American Indian,,,,,,,Other,,,,North Kern State Prison,,,
+5ee393bb,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+c543dbb8,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+16e27ca2,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+0f2c8b7a,Black,PC236.1(c)(1),Human Trafficking V/Minor W/Specified Violations,05/23/2014,05/25/2014,,San Joaquin,Second Striker,280.0,Other Crimes,AUG2028,"California State Prison, Solano",23.3,11.9,2037-09-25
+fb088d4d,Black,,,,,,,Other,,,,Wasco State Prison,,,
+bf1912fb,Black,PC245(b),Assault with Semiautomatic Firearm,01/10/2015,01/10/2015,F15906108,Fresno,DSL,252.0,Crimes Against Persons,MAY2030,Kern Valley State Prison,21.0,11.2,2036-01-10
+dc20a45c,Other Asian Not Listed,PC245(b),Assault with Semiautomatic Firearm,10/27/2012,10/27/2012,F12909247,Fresno,DSL,252.0,Crimes Against Persons,MAY2029,Folsom State Prison,21.0,13.4,2033-10-27
+f222a781,Black,PC236.1(b),Human Trafficking W/Specified Violations,05/06/2014,05/06/2014,,Alameda,DSL,288.0,Other Crimes,SEP2030,California Medical Facility,24.0,11.9,2038-05-06
+6a37d122,Hispanic,PC520,Extortion by Means of Force/Threat,01/01/2012,11/19/2012,BA415012,Los Angeles,Life with Parole,604.0,Property Crimes,DEC2048,Calipatria State Prison,50.3,13.4,2063-03-19
+e99a5210,Hispanic,PC520,Extortion by Means of Force/Threat,02/01/2012,05/01/2012,BA415012-05,Los Angeles,Life with Parole,588.0,Property Crimes,MAR2048,Calipatria State Prison,49.0,13.9,2061-05-01
+180b58fd,Puerto Rican,PC245(a)(3),Assault with a Machine Gun,06/14/2010,06/14/2010,,Alameda,Second Striker,332.0,Crimes Against Persons,MAY2033,Mule Creek State Prison,27.7,15.8,2038-02-14
+9d1ee719,Other,PC245(b),Assault with Semiautomatic Firearm,04/05/2015,04/05/2015,15F01339,Sacramento,DSL,252.0,Crimes Against Persons,JUL2030,California Health Care Facility - Stockton,21.0,11.0,2036-04-05
+07c5f258,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+959d8d8a,Black,PC273a(a),Abuse/Endanger Health of Child,06/02/2013,06/02/2013,CRM028045,Merced,Second Striker,300.0,Crimes Against Persons,DEC2030,"California State Prison, Corcoran",25.0,12.8,2038-06-02
+ad874689,Hispanic,PC245(b),Assault with Semiautomatic Firearm,09/25/2013,09/25/2013,,Santa Clara,DSL,288.0,Crimes Against Persons,JUL2032,Mule Creek State Prison,24.0,12.5,2037-09-25
+ec8379ac,Black,PC273a(a),Abuse/Endanger Health of Child,03/13/2014,03/13/2014,FCR306169,Solano,DSL,268.0,Crimes Against Persons,SEP2029,Valley State Prison,22.3,12.1,2036-07-13
+a204f858,Hispanic,PC245(b),Assault with Semiautomatic Firearm,02/12/2015,02/12/2015,BA433718,Los Angeles,DSL,264.0,Crimes Against Persons,SEP2027,"California State Prison, Solano",22.0,11.1,2037-02-12
+675ad438,Hispanic,PC245(b),Assault with Semiautomatic Firearm,05/30/2015,05/30/2015,SCE351772,San Diego,DSL,276.0,Crimes Against Persons,MAR2032,Centinela State Prison,23.0,10.8,2038-05-30
+3af45be9,Hispanic,PC520,Extortion by Means of Force/Threat,05/03/2012,05/03/2012,BA415012,Los Angeles,Life with Parole,456.0,Property Crimes,APR2040,Ironwood State Prison,38.0,13.9,2050-05-03
+e598266f,Hispanic,PC273a(a),Abuse/Endanger Health of Child,08/05/2014,10/05/2014,RIF1500508,Riverside,DSL,252.0,Crimes Against Persons,NOV2027,"California State Prison, Corcoran",21.0,11.5,2035-10-05
+ea0524e2,White,CC25401,SALE SEC MISREP,09/21/2005,09/21/2005,12CF1917,Orange,DSL,420.0,Property Crimes,SEP2027,Sierra Conservation Center - Antelope Camp,35.0,20.5,2040-09-21
+ec32637c,Black,PC245(b),Assault with Semiautomatic Firearm,10/21/2013,10/21/2013,H56580,Alameda,Second Striker,252.0,Crimes Against Persons,NOV2028,Sierra Conservation Center,21.0,12.4,2034-10-21
+aacda903,Hispanic,PC245(b),Assault with Semiautomatic Firearm,10/22/2014,10/22/2014,BA411509,Los Angeles,DSL,288.0,Crimes Against Persons,APR2032,Centinela State Prison,24.0,11.4,2038-10-22
+922f4102,Hispanic,PC245(b),Assault with Semiautomatic Firearm,09/27/2015,09/27/2015,BA440204,Los Angeles,DSL,276.0,Crimes Against Persons,MAY2034,California Substance Abuse Treatment Facility,23.0,10.5,2038-09-27
+69645c74,Other,PC245(b),Assault with Semiautomatic Firearm,04/01/2015,04/01/2015,STKCR20156482,San Joaquin,DSL,292.0,Crimes Against Persons,FEB2034,"California State Prison, Sacramento",24.3,11.0,2039-08-01
+ea0c6dd0,White,,,,,,,Other,,,,Wasco State Prison,,,
+6e77e1e2,Hispanic,PC245(b),Assault with Semiautomatic Firearm,10/23/2014,10/23/2014,VCF343538,Tulare,DSL,240.0,Crimes Against Persons,JUN2029,Folsom State Prison,20.0,11.4,2034-10-23
+3ef9e47d,Hispanic,PC245(b),Assault with Semiautomatic Firearm,02/28/2015,02/28/2015,CRF151212,Yolo,DSL,364.0,Crimes Against Persons,APR2035,Folsom State Prison,30.3,11.1,2045-06-28
+64aa1e71,Black,PC245(b),Assault with Semiautomatic Firearm,01/14/2015,01/14/2015,BF159389,Kern,Second Striker,296.0,Crimes Against Persons,JUL2032,Central California Women's Facility,24.7,11.2,2039-09-14
+1c19025c,Vietnamese,PC424,Misappropriation of Funds by Public Official,04/22/2015,04/22/2015,16NF1108,Orange,DSL,300.0,Property Crimes,APR2025,Sacramento Control Office,25.0,10.9,2040-04-22
+6ac8366a,White,HS11380(a),Employment of Minor for Unlawful Transaction,03/22/2014,12/24/2014,CRF15957,Yolo,DSL,264.0,Drug Crimes,OCT2025,Mule Creek State Prison,22.0,11.3,2036-12-24
+d10fd5b8,Hispanic,PC245(b),Assault with Semiautomatic Firearm,10/18/2014,10/18/2014,CRM036161C,Merced,DSL,240.0,Crimes Against Persons,MAY2028,Folsom State Prison,20.0,11.5,2034-10-18
+1d324470,Hispanic,PC245(b),Assault with Semiautomatic Firearm,12/03/2014,12/03/2014,17CR05066,Merced,Second Striker,308.0,Crimes Against Persons,NOV2034,Mule Creek State Prison,25.7,11.3,2040-08-03
+e9886609,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+9e1c813d,White,CC25541,Defraud Corporate Securities,02/15/2007,06/15/2010,11CF2747,Orange,DSL,412.0,Property Crimes,JUN2028,Folsom State Prison,34.3,15.8,2044-10-15
+850d7ac0,Hispanic,PC245(b),Assault with Semiautomatic Firearm,12/06/2014,12/06/2014,F14910955,Fresno,DSL,248.0,Crimes Against Persons,DEC2029,Salinas Valley State Prison,20.7,11.3,2035-08-06
+d292d4eb,White,CC25401,SALE SEC MISREP,06/20/2013,06/21/2013,SCD261283,San Diego,DSL,276.0,Property Crimes,MAY2026,California Health Care Facility - Stockton,23.0,12.8,2036-06-21
+59f98d74,Hispanic,PC245(b),Assault with Semiautomatic Firearm,02/14/2015,02/14/2015,VCR223062,Solano,DSL,252.0,Crimes Against Persons,SEP2031,High Desert State Prison,21.0,11.1,2036-02-14
+2b4aa737,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+376fffe3,Black,PC245(b),Assault with Semiautomatic Firearm,01/18/2016,01/18/2016,16WF0127,Orange,Second Striker,504.0,Crimes Against Persons,JAN2045,California Substance Abuse Treatment Facility,42.0,10.2,2058-01-18
+b68a7506,Black,PC236.1(b),Human Trafficking W/Specified Violations,08/15/2015,09/30/2015,,Los Angeles,DSL,276.0,Other Crimes,AUG2026,California Rehabilitation Center,23.0,10.5,2038-09-30
+321b2099,Hispanic,PC245(b),Assault with Semiautomatic Firearm,11/18/2013,11/18/2013,2015010912,Ventura,Second Striker,364.0,Crimes Against Persons,APR2036,Kern Valley State Prison,30.3,12.4,2044-03-18
+dbbcf8ac,White,PC245(b),Assault with Semiautomatic Firearm,10/26/2015,10/26/2015,2015036331,Ventura,DSL,288.0,Crimes Against Persons,DEC2031,Ironwood State Prison,24.0,10.4,2039-10-26
+1730f0c6,Black,,,,,,,Other,,,,North Kern State Prison,,,
+a0991b4f,Black,,,,,,,Other,,,,North Kern State Prison,,,
+b9f0e68c,Black,,,,,,,Other,,,,North Kern State Prison,,,
+b3899f76,Black,PC236.1(b),Human Trafficking W/Specified Violations,06/27/2012,07/27/2013,,San Bernardino,Second Striker,384.0,Other Crimes,FEB2039,Calipatria State Prison,32.0,12.7,2045-07-27
+d8537abc,White,,,,,,,Other,,,,North Kern State Prison,,,
+56b0ebe1,White,,,,,,,Other,,,,Wasco State Prison,,,
+c66e981c,Other,CC25401,SALE SEC MISREP,01/27/2010,01/27/2010,BA425361,Los Angeles,DSL,360.0,Property Crimes,APR2033,"California State Prison, Solano",30.0,16.2,2040-01-27
+a4b7751a,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+06928d4e,Black,,,,,,,Other,,,,North Kern State Prison,,,
+196e08ca,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+da1a8aa1,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+eada5d93,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+496ccb20,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+05f1e18b,Black,,,,,,,Other,,,,North Kern State Prison,,,
+461c3975,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+1843a0b9,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+7b3f2921,Black,,,,,,,Other,,,,North Kern State Prison,,,
+4289da66,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+99117640,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+04854953,Other,PC550,False or Fraudulent Claim,01/01/2009,07/15/2014,RIF1670175,Riverside,DSL,656.0,Property Crimes,FEB2051,"California State Prison, Solano",54.7,11.7,2069-03-15
+6fadcb47,White,PC530.5(a),Use ID of Another to Obtain Personal Identifying Information,02/04/2015,02/04/2015,P15CRF0134,El Dorado,DSL,292.0,Property Crimes,OCT2029,California Correctional Institution,24.3,11.2,2039-06-04
+506c42b7,White,,,,,,,Other,,,,Sierra Conservation Center,,,
+7af2711e,Mexican,,,,,,,Other,,,,Sierra Conservation Center,,,
+491714ff,Black,,,,,,,Other,,,,Sierra Conservation Center,,,
+7fff6f90,White,,,,,,,Other,,,,Sierra Conservation Center,,,
+43b554b8,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+1f64aa04,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+ff232cdc,Black,,,,,,,Other,,,,North Kern State Prison,,,
+de1e2338,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+f6478d32,Black,,,,,,,Other,,,,California Institution for Women,,,
+e6c4fb04,White,,,,,,,Other,,,,North Kern State Prison,,,
+f158722a,White,,,,,,,Other,,,,Wasco State Prison,,,
+7edd3355,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+2dc11ff2,White,,,,,,,Other,,,,Wasco State Prison,,,
+61de7e88,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+caaebb54,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+bcbf6ef3,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+b9ac3d15,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+9b7eeec3,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+9d17619f,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+459756a4,White,,,,,,,Other,,,,North Kern State Prison,,,
+1cf10695,Black,,,,,,,Other,,,,Wasco State Prison,,,
+29b2326f,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+9d715b59,White,,,,,,,Other,,,,North Kern State Prison,,,
+f601af20,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+31e102fc,Black,,,,,,,Other,,,,Wasco State Prison,,,
+8b1bf206,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+436887c2,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+7a19e6b3,Black,,,,,,,Other,,,,North Kern State Prison,,,
+d82eb933,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+832c235f,Black,,,,,,,Other,,,,North Kern State Prison,,,
+fd959c4c,Hispanic,,,,,,,Other,,,,Wasco State Prison,,,
+34df2bcf,Black,,,,,,,Other,,,,Wasco State Prison,,,
+1b1c8813,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+111d3c75,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+55a72081,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+377332f3,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+dddb2063,Black,,,,,,,Other,,,,North Kern State Prison,,,
+26878c08,Other,,,,,,,Other,,,,North Kern State Prison,,,
+93170aed,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+8adcb7ed,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+6ab12922,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+dc9049f1,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
+f5f90710,Black,,,,,,,Other,,,,North Kern State Prison,,,
+d0aeb065,Black,,,,,,,Other,,,,North Kern State Prison,,,
+4dc66954,Hispanic,,,,,,,Other,,,,North Kern State Prison,,,
